@@ -1,0 +1,762 @@
+ab_id,des,event_num,g_id,player_id,date,BS,CORRECT,team,is_home_team
+2015003219,San Diego Padres center fielder Will Venable ejected by HP umpire Tripp Gibson III.  ,732,201500044,461416,4/9/15,,,sdn,TRUE
+2015003219,San Diego Padres Manager Bud Black ejected by HP umpire Tripp Gibson III.  ,734,201500044,111034,4/9/15,,,sdn,TRUE
+2015004134,Milwaukee Brewers second baseman Scooter Gennett ejected by HP umpire Mike Estabrook.  ,584,201500055,571697,4/10/15,Y,C,mil,TRUE
+2015006692,Cincinnati Reds Manager Bryan Price ejected by 3B umpire Joe West.  ,557,201500088,427406,4/12/15,,,cin,TRUE
+2015008446,Pittsburgh Pirates Manager Clint Hurdle ejected by HP umpire David Rackley.  ,402,201500111,116346,4/14/15,Y,I,pit,TRUE
+2015008724,New York Mets Manager Terry Collins ejected by HP umpire Alfonso Marquez.  ,319,201500115,492632,4/14/15,,,nyn,TRUE
+2015010563,Tampa Bay Rays Manager Kevin Cash ejected by HP umpire Laz Diaz.  ,519,201500139,408211,4/16/15,,,tba,FALSE
+2015010843,Baltimore Orioles pitcher Ubaldo Jimenez ejected by HP umpire Jordan Baker.  ,254,201500143,434622,4/17/15,,,bal,FALSE
+2015011598,Chicago Cubs Manager Joe Maddon ejected by HP umpire Sam Holbrook.  ,437,201500153,427309,4/17/15,Y,C,chn,TRUE
+2015011738,Los Angeles Angels left fielder Collin Cowgill ejected by HP umpire Paul Nauert.  ,401,201500155,518577,4/18/15,Y,C,laa,FALSE
+2015012524,Kansas City Royals pitcher Yordano Ventura ejected by HP umpire Jim Joyce.  ,211,201500166,570649,4/18/15,,,kca,TRUE
+2015013070,Boston Red Sox designated hitter David Ortiz ejected by HP umpire John Tumpane.  ,375,201500173,120074,4/19/15,,,bos,TRUE
+2015013616,Kansas City Royals Pitching Coach Dave Eiland ejected by HP umpire Greg Gibson.  ,63,201500181,113782,4/19/15,,,kca,TRUE
+2015013616,Kansas City Royals Manager Ned Yost III ejected by HP umpire Greg Gibson.  ,65,201500181,124681,4/19/15,,,kca,TRUE
+2015013668,Kansas City Royals pitcher Kelvin Herrera ejected by HP umpire Greg Gibson.  ,512,201500181,516969,4/19/15,,,kca,TRUE
+2015013668,Kansas City Royals Bench Coach Don Wakamatsu ejected by 3B umpire Jim Joyce.  ,516,201500181,123798,4/19/15,,,kca,TRUE
+2015013668,Kansas City Royals shortstop Alcides Escobar ejected by HP umpire Greg Gibson.  ,518,201500181,444876,4/19/15,,,kca,TRUE
+2015013765,San Diego Padres Manager Bud Black ejected by HP umpire James Hoye.  ,114,201500183,111034,4/19/15,Y,C,sdn,FALSE
+2015016226,Houston Astros Hitting Coach Dave Hudgens ejected by HP umpire Lance Barrett.  ,288,201500215,116256,4/22/15,Y,C,hou,FALSE
+2015017285,Kansas City Royals center fielder Lorenzo Cain ejected by HP umpire Sam Holbrook.  ,421,201500229,456715,4/23/15,,,kca,FALSE
+2015017285,Kansas City Royals pitcher Yordano Ventura ejected by HP umpire Sam Holbrook.  ,423,201500229,570649,4/23/15,,,kca,FALSE
+2015017285,Kansas City Royals pitcher Edinson Volquez ejected by HP umpire Sam Holbrook.  ,425,201500229,450172,4/23/15,,,kca,FALSE
+2015017285,Chicago White Sox pitcher Chris Sale ejected by HP umpire Sam Holbrook.  ,427,201500229,519242,4/23/15,,,cha,TRUE
+2015017285,Chicago White Sox pitcher Jeff Samardzija ejected by HP umpire Sam Holbrook.  ,429,201500229,502188,4/23/15,,,cha,TRUE
+2015017533,Detroit Tigers Manager Brad Ausmus ejected by 3B umpire Gerry Davis.  ,320,201500232,110385,4/23/15,,,det,TRUE
+2015018429,New York Mets pitcher Jonathon Niese ejected by HP umpire Doug Eddings.  ,328,201500244,477003,4/24/15,Y,C,nyn,FALSE
+2015018597,San Francisco Giants Manager Bruce Bochy ejected by HP umpire John Tumpane.  ,540,201500246,111136,4/24/15,Y,C,sfn,FALSE
+2015019255,San Diego Padres right fielder Matt Kemp ejected by HP umpire Marty Foster.  ,536,201500255,461314,4/25/15,Y,C,sdn,TRUE
+2015019649,Milwaukee Brewers Manager Ron Roenicke ejected by HP umpire Dale Scott.  ,415,201500260,121373,4/25/15,Y,I,mil,TRUE
+2015020228,Oakland Athletics Manager Bob Melvin ejected by HP umpire Quinn Wolcott.  ,246,201500268,118942,4/26/15,Y,C,oak,TRUE
+2015020436,Seattle Mariners Manager Lloyd McClendon ejected by HP umpire Sean Barber.  ,211,201500271,118576,4/26/15,,,sea,TRUE
+2015020793,Texas Rangers Manager Jeff Banister ejected by HP umpire Manny Gonzalez.  ,517,201500275,110529,4/26/15,,,tex,FALSE
+2015021907,Atlanta Braves first baseman Freddie Freeman ejected by 3B umpire John Hirschbeck.  ,337,201500290,518692,4/27/15,,,atl,TRUE
+2015021924,Atlanta Braves left fielder Jonny Gomes ejected by HP umpire Bill Welke.  ,488,201500290,430404,4/27/15,,,atl,TRUE
+2015027633,Oakland Athletics left fielder Craig Gentry ejected by HP umpire Andy Fletcher.  ,231,201500366,502226,5/3/15,Y,C,oak,FALSE
+2015028281,Los Angeles Dodgers Manager Don Mattingly ejected by 1B umpire Paul Emmel.  ,165,201500374,118443,5/4/15,,,lan,FALSE
+2015030025,Colorado Rockies Manager Walt Weiss ejected by HP umpire Bill Miller.  ,153,201500398,124054,5/6/15,Y,C,col,TRUE
+2015030192,Chicago Cubs Manager Joe Maddon ejected by HP umpire D.   Reyburn.  ,346,201500400,427309,5/6/15,Y,C,chn,FALSE
+2015030247,Cincinnati Reds first baseman Joey Votto ejected by HP umpire Chris Conroy.  ,146,201500401,458015,5/6/15,,,cin,FALSE
+2015033318,Chicago White Sox Hitting Coach Todd Steverson ejected by HP umpire John Hirschbeck.  ,179,201500442,122771,5/9/15,Y,C,cha,TRUE
+2015035269,Tampa Bay Rays Manager Kevin Cash ejected by HP umpire Mike Estabrook.  ,252,201500467,408211,5/10/15,,,tba,TRUE
+2015035269,Tampa Bay Rays Hitting Coach Derek Shelton ejected by HP umpire Mike Estabrook.  ,255,201500467,486359,5/10/15,,,tba,TRUE
+2015037614,Los Angeles Dodgers Manager Don Mattingly ejected by 3B umpire Bob Davidson.  ,250,201500498,118443,5/13/15,,,lan,TRUE
+2015038122,Cleveland Indians Manager Terry Francona ejected by HP umpire Mike Everitt.  ,257,201500505,114378,5/13/15,,,cle,TRUE
+2015038294,Washington Nationals right fielder Bryce Harper ejected by HP umpire Rob Drake.  ,502,201500507,547180,5/13/15,,,was,FALSE
+2015038294,Washington Nationals Manager Matt Williams ejected by HP umpire Rob Drake.  ,504,201500507,124326,5/13/15,,,was,FALSE
+2015041941,Colorado Rockies left fielder Charlie Blackmon ejected by HP umpire Marty Foster.  ,271,201500555,453568,5/17/15,Y,I,col,FALSE
+2015043035,Colorado Rockies catcher Nick Hundley ejected by 1B umpire Hunter Wendelstedt.  ,554,201500569,460026,5/18/15,,,col,TRUE
+2015043614,Detroit Tigers Manager Brad Ausmus ejected by HP umpire Tripp Gibson III.  ,336,201500577,110385,5/19/15,Y,C,det,TRUE
+2015043800,New York Yankees Pitching Coach Larry Rothschild ejected by HP umpire Jim Joyce.  ,611,201500579,121495,5/19/15,Y,C,nya,FALSE
+2015044895,Washington Nationals right fielder Bryce Harper ejected by HP umpire Marvin Hudson.  ,179,201500594,547180,5/20/15,Y,I,was,TRUE
+2015044895,Washington Nationals Manager Matt Williams ejected by HP umpire Marvin Hudson.  ,181,201500594,124326,5/20/15,Y,I,was,TRUE
+2015045894,Milwaukee Brewers pitcher Will Smith ejected by 2B umpire Jim Joyce.  ,378,201500607,519293,5/21/15,,,mil,FALSE
+2015046103,Seattle Mariners third baseman Kyle Seager ejected by HP umpire John Tumpane.  ,384,201500610,572122,5/21/15,Y,C,sea,FALSE
+2015047605,Baltimore Orioles pitcher Brian Matusz ejected by 3B umpire Paul Emmel.  ,699,201500629,451085,5/23/15,,,bal,FALSE
+2015047693,Cincinnati Reds Manager Bryan Price ejected by 2B umpire Jim Reynolds.  ,4,201500631,427406,5/23/15,,,cin,FALSE
+2015048259,San Diego Padres left fielder Justin Upton ejected by HP umpire Clint Fagan.  ,396,201500638,457708,5/23/15,Y,C,sdn,FALSE
+2015053281,Baltimore Orioles third baseman Manny Machado ejected by HP umpire Toby Basner.  ,489,201500706,592518,5/28/15,,,bal,TRUE
+2015053890,Boston Red Sox Manager John Farrell ejected by HP umpire Todd Tichenor.  ,520,201500714,114023,5/29/15,Y,C,bos,FALSE
+2015053890,Boston Red Sox first baseman Mike Napoli ejected by HP umpire Todd Tichenor.  ,522,201500714,435063,5/29/15,Y,C,bos,FALSE
+2015054117,Philadelphia Phillies Manager Ryne Sandberg ejected by HP umpire Angel Hernandez.  ,465,201500717,121665,5/29/15,,,phi,TRUE
+2015054318,Los Angeles Dodgers Manager Don Mattingly ejected by HP umpire Mike Winters.  ,388,201500720,118443,5/29/15,Y,C,lan,FALSE
+2015054323,Los Angeles Dodgers catcher A.  J.   Ellis ejected by HP umpire Mike Winters.  ,441,201500720,454560,5/29/15,Y,C,lan,FALSE
+2015055794,Washington Nationals third baseman Yunel Escobar ejected by HP umpire Andy Fletcher.  ,461,201500740,488862,5/30/15,Y,C,was,FALSE
+2015056112,Texas Rangers Manager Jeff Banister ejected by 2B umpire Todd Tichenor.  ,635,201500743,110529,5/31/15,Y,I,tex,TRUE
+2015057541,San Diego Padres right fielder Matt Kemp ejected by HP umpire Dan Iassogna.  ,463,201500762,461314,6/1/15,Y,C,sdn,TRUE
+2015057541,San Diego Padres Manager Bud Black ejected by HP umpire Dan Iassogna.  ,465,201500762,111034,6/1/15,Y,C,sdn,TRUE
+2015058350,St.   Louis Cardinals Manager Mike Matheny ejected by HP umpire Joe West.  ,367,201500773,118414,6/2/15,Y,I,stl,FALSE
+2015058350,St.   Louis Cardinals left fielder Matt Holliday ejected by HP umpire Joe West.  ,369,201500773,407812,6/2/15,Y,I,stl,FALSE
+2015058447,Seattle Mariners catcher Mike Zunino ejected by 1B umpire Will Little.  ,161,201500775,572287,6/2/15,,,sea,TRUE
+2015058447,Seattle Mariners Manager Lloyd McClendon ejected by 1B umpire Will Little.  ,163,201500775,118576,6/2/15,,,sea,TRUE
+2015059268,Miami Marlins Manager Dan Jennings ejected by HP umpire James Hoye.  ,552,201500785,664479,6/3/15,,,mia,TRUE
+2015060190,Baltimore Orioles Manager Buck Showalter ejected by HP umpire Brian Gorman.  ,96,201500798,427469,6/4/15,Y,I,bal,FALSE
+2015062633,Arizona Diamondbacks Manager Chip Hale ejected by HP umpire Mark Ripperger.  ,376,201500830,115330,6/6/15,Y,I,azn,FALSE
+2015063208,New York Yankees pitcher CC Sabathia ejected by HP umpire Dan Bellino.  ,328,201500838,282332,6/7/15,Y,C,nya,TRUE
+2015063208,New York Yankees Manager Joe Girardi ejected by HP umpire Dan Bellino.  ,330,201500838,114833,6/7/15,Y,C,nya,TRUE
+2015063887,Atlanta Braves pitcher Alex Wood ejected by HP umpire Mark Carlson.  ,341,201500847,622072,6/7/15,Y,C,atl,TRUE
+2015064495,Toronto Blue Jays Manager John Gibbons ejected by 1B umpire Angel Hernandez.  ,165,201500856,114744,6/8/15,,,tor,TRUE
+2015065465,Cincinnati Reds right fielder Jay Bruce ejected by HP umpire Adam Hamari.  ,227,201500869,457803,6/9/15,Y,I,cin,TRUE
+2015066399,Minnesota Twins right fielder Torii Hunter ejected by HP umpire Mark Ripperger.  ,545,201500881,116338,6/10/15,Y,I,min,TRUE
+2015066399,Minnesota Twins Manager Paul Molitor ejected by HP umpire Mark Ripperger.  ,547,201500881,119236,6/10/15,Y,I,min,TRUE
+2015067439,San Diego Padres Manager Bud Black ejected by HP umpire Jordan Baker.  ,399,201500895,111034,6/11/15,,,sdn,FALSE
+2015068325,Los Angeles Dodgers first baseman Adrian Gonzalez ejected by HP umpire Doug Eddings.  ,445,201500907,408236,6/12/15,Y,I,lan,FALSE
+2015068545,Los Angeles Angels Manager Mike Scioscia ejected by 1B umpire Chris Conroy.  ,406,201500910,121919,6/12/15,,,laa,FALSE
+2015070533,San Diego Padres Hitting Coach Mark Kotsay ejected by HP umpire Adrian Johnson.  ,289,201500936,117276,6/14/15,Y,I,sdn,TRUE
+2015070897,Pittsburgh Pirates Manager Clint Hurdle ejected by HP umpire Cory Blaser.  ,514,201500940,116346,6/14/15,Y,I,pit,TRUE
+2015071913,Philadelphia Phillies third baseman Maikel Franco ejected by HP umpire Eric Cooper.  ,337,201500954,596748,6/15/15,Y,C,phi,FALSE
+2015072492,Cleveland Indians center fielder Michael Bourn ejected by HP umpire Phil Cuzzi.  ,258,201500962,456422,6/16/15,Y,I,cle,FALSE
+2015072526,Chicago Cubs catcher Miguel Montero ejected by HP umpire Phil Cuzzi.  ,547,201500962,471083,6/16/15,Y,C,chn,TRUE
+2015073043,Philadelphia Phillies pitcher Justin DeFratus ejected by HP umpire Lance Barksdale.  ,492,201500969,518603,6/16/15,,,phi,FALSE
+2015073133,San Francisco Giants center fielder Angel Pagan ejected by HP umpire John Hirschbeck.  ,503,201500970,434636,6/16/15,Y,I,sfn,TRUE
+2015073133,San Francisco Giants Manager Bruce Bochy ejected by HP umpire John Hirschbeck.  ,505,201500970,111136,6/16/15,Y,I,sfn,TRUE
+2015073507,Boston Red Sox Manager John Farrell ejected by 1B umpire Larry Vanover.  ,555,201500975,114023,6/17/15,,,bos,FALSE
+2015073732,Colorado Rockies Manager Walt Weiss ejected by 2B umpire Jerry Layne.  ,209,201500978,124054,6/17/15,,,col,TRUE
+2015074025,Chicago White Sox Manager Robin Ventura ejected by HP umpire Alfonso Marquez.  ,213,201500982,123697,6/17/15,,,cha,TRUE
+2015075529,Toronto Blue Jays Manager John Gibbons ejected by HP umpire CB Bucknor.  ,67,201501003,114744,6/19/15,,,tor,TRUE
+2015075584,Toronto Blue Jays pitcher Roberto Osuna ejected by HP umpire CB Bucknor.  ,534,201501003,532077,6/19/15,,,tor,TRUE
+2015075584,Toronto Blue Jays Bench Coach DeMarlo Hale ejected by HP umpire CB Bucknor.  ,536,201501003,427204,6/19/15,,,tor,TRUE
+2015076778,Boston Red Sox designated hitter David Ortiz ejected by HP umpire Bruce Dreckman.  ,520,201501019,120074,6/20/15,,,bos,FALSE
+2015077003,Houston Astros Manager AJ Hinch ejected by 3B umpire Mike DiMuro.  ,351,201501022,134460,6/20/15,,,hou,FALSE
+2015079308,Tampa Bay Rays shortstop Asdrubal Cabrera ejected by HP umpire Kerwin Danley.  ,354,201501053,452678,6/22/15,Y,C,tba,TRUE
+2015079558,Boston Red Sox Manager John Farrell ejected by HP umpire Tim Timmons.  ,512,201501056,114023,6/23/15,Y,I,bos,TRUE
+2015079777,Cleveland Indians Pitching Coach Mickey Callaway ejected by HP umpire Eric Cooper.  ,313,201501059,209068,6/23/15,Y,C,cle,TRUE
+2015080348,San Diego Padres Interim Manager Pat Murphy ejected by HP umpire Fieldin Culbreth.  ,468,201501066,580268,6/23/15,,,sdn,FALSE
+2015080348,San Diego Padres right fielder Matt Kemp ejected by 1B umpire Jim Reynolds.  ,470,201501066,461314,6/23/15,,,sdn,FALSE
+2015081396,New York Yankees Manager Joe Girardi ejected by 1B umpire Alan Porter.  ,201,201501080,114833,6/24/15,,,nya,TRUE
+2015082287,New York Mets Manager Terry Collins ejected by 2B umpire Larry Vanover.  ,221,201501091,492632,6/25/15,,,nyn,FALSE
+2015084385,Houston Astros pitcher Brett Oberholtzer ejected by HP umpire Rob Drake.  ,151,201501119,519085,6/27/15,,,hou,TRUE
+2015084743,Boston Red Sox first baseman Mike Napoli ejected by HP umpire Tripp Gibson III.  ,82,201501124,435063,6/28/15,Y,C,bos,FALSE
+2015085153,Cleveland Indians Manager Terry Francona ejected by HP umpire Ron Kulpa.  ,582,201501129,114378,6/28/15,Y,C,cle,FALSE
+2015088824,Toronto Blue Jays Manager John Gibbons ejected by HP umpire Gerry Davis.  ,470,201501178,114744,7/2/15,,,tor,TRUE
+2015089292,Detroit Tigers Manager Brad Ausmus ejected by HP umpire Sam Holbrook.  ,324,201501184,110385,7/2/15,Y,C,det,TRUE
+2015089386,San Diego Padres third baseman Yangervis Solarte ejected by HP umpire Bob Davidson.  ,378,201501185,500208,7/2/15,,,sdn,FALSE
+2015091321,Cincinnati Reds catcher Brayan Pena ejected by HP umpire Bill Welke.  ,308,201501211,430910,7/4/15,,,cin,TRUE
+2015092877,San Francisco Giants Manager Bruce Bochy ejected by HP umpire Phil Cuzzi.  ,298,201501232,111136,7/5/15,Y,C,sfn,FALSE
+2015092877,San Francisco Giants pitcher Ryan Vogelsong ejected by HP umpire Phil Cuzzi.  ,300,201501232,285064,7/5/15,Y,C,sfn,FALSE
+2015094852,St.   Louis Cardinals pitcher Seth Maness ejected by 1B umpire Pat Hoberg.  ,499,201501258,595307,7/7/15,,,stl,FALSE
+2015095957,St.   Louis Cardinals Manager Mike Matheny ejected by HP umpire Pat Hoberg.  ,452,201501273,118414,7/8/15,Y,C,stl,FALSE
+2015095957,St.   Louis Cardinals catcher Yadier Molina ejected by HP umpire Pat Hoberg.  ,454,201501273,425877,7/8/15,Y,C,stl,FALSE
+2015096780,Kansas City Royals center fielder Lorenzo Cain ejected by HP umpire Chris Segal.  ,520,201501284,456715,7/9/15,Y,C,kca,TRUE
+2015098345,Detroit Tigers designated hitter Victor Martinez ejected by HP umpire Marty Foster.  ,346,201501306,400121,7/11/15,Y,I,det,FALSE
+2015098436,Houston Astros Pitching Coach Brent Strom ejected by HP umpire Greg Gibson.  ,460,201501307,122884,7/11/15,Y,C,hou,FALSE
+2015098831,Pittsburgh Pirates catcher Francisco Cervelli ejected by HP umpire Vic Carapazza.  ,65,201501313,465041,7/11/15,,,pit,TRUE
+2015098831,Pittsburgh Pirates Manager Clint Hurdle ejected by HP umpire Vic Carapazza.  ,67,201501313,116346,7/11/15,,,pit,TRUE
+2015100110,Toronto Blue Jays designated hitter Jose Bautista ejected by HP umpire Jerry Meals.  ,635,201501329,430832,7/12/15,,,tor,FALSE
+2015100942,New York Mets Manager Terry Collins ejected by HP umpire Chad Fairchild.  ,349,201501341,492632,7/17/15,Y,I,nyn,FALSE
+2015102533,Detroit Tigers second baseman Ian Kinsler ejected by HP umpire Manny Gonzalez.  ,165,201501362,435079,7/19/15,Y,I,det,TRUE
+2015103775,Chicago Cubs catcher David Ross ejected by HP umpire Paul Schrieber.  ,427,201501377,424325,7/20/15,,,chn,FALSE
+2015104791,Los Angeles Dodgers Manager Don Mattingly ejected by HP umpire James Hoye.  ,532,201501390,118443,7/21/15,Y,I,lan,FALSE
+2015105723,Chicago Cubs Manager Joe Maddon ejected by 1B umpire Adam Hamari.  ,260,201501403,427309,7/22/15,,,chn,FALSE
+2015106055,Arizona Diamondbacks Hitting Coach Turner Ward ejected by HP umpire Vic Carapazza.  ,397,201501407,123930,7/22/15,,,azn,FALSE
+2015106059,Arizona Diamondbacks pitcher Dominic Leone ejected by HP umpire Vic Carapazza.  ,428,201501407,608678,7/22/15,,,azn,FALSE
+2015106755,Oakland Athletics Manager Bob Melvin ejected by HP umpire Hunter Wendelstedt.  ,321,201501416,118942,7/22/15,Y,C,oak,TRUE
+2015109391,Minnesota Twins Manager Paul Molitor ejected by HP umpire Jeff Nelson.  ,357,201501452,119236,7/25/15,,,min,TRUE
+2015111124,Boston Red Sox first baseman Mike Napoli ejected by HP umpire Toby Basner.  ,106,201501475,435063,7/27/15,Y,C,bos,TRUE
+2015111571,Milwaukee Brewers center fielder Carlos Gomez ejected by 3B umpire Gerry Davis.  ,498,201501480,460576,7/27/15,,,mil,FALSE
+2015111571,Milwaukee Brewers Manager Craig Counsell ejected by 3B umpire Gerry Davis.  ,500,201501480,112736,7/27/15,,,mil,FALSE
+2015113295,Cleveland Indians Manager Terry Francona ejected by HP umpire Tom Woodring.  ,279,201501504,114378,7/29/15,,,cle,TRUE
+2015116052,Washington Nationals right fielder Bryce Harper ejected by HP umpire Jerry Meals.  ,643,201501539,547180,7/31/15,Y,I,was,FALSE
+2015116072,Los Angeles Angels Manager Mike Scioscia ejected by HP umpire Chris Segal.  ,105,201501540,121919,8/1/15,Y,I,laa,FALSE
+2015116914,Seattle Mariners Manager Lloyd McClendon ejected by 1B umpire Mike Muchlinski.  ,550,201501551,118576,8/1/15,,,sea,FALSE
+2015117420,Chicago Cubs Manager Joe Maddon ejected by 2B umpire Hunter Wendelstedt.  ,226,201501558,427309,8/2/15,,,chn,FALSE
+2015117733,Toronto Blue Jays Manager John Gibbons ejected by HP umpire Jim Wolf.  ,426,201501562,114744,8/2/15,,,tor,TRUE
+2015117739,Toronto Blue Jays pitcher Aaron Sanchez ejected by HP umpire Jim Wolf.  ,467,201501562,592717,8/2/15,,,tor,TRUE
+2015117739,Toronto Blue Jays Bench Coach DeMarlo Hale ejected by HP umpire Jim Wolf.  ,469,201501562,427204,8/2/15,,,tor,TRUE
+2015117891,Pittsburgh Pirates first baseman Sean Rodriguez ejected by 1B umpire Joe West.  ,447,201501564,446481,8/2/15,,,pit,FALSE
+2015117893,Cincinnati Reds first baseman Joey Votto ejected by 1B umpire Joe West.  ,468,201501564,458015,8/2/15,,,cin,TRUE
+2015117893,Cincinnati Reds center fielder Marlon Byrd ejected by 1B umpire Joe West.  ,470,201501564,407781,8/2/15,,,cin,TRUE
+2015117899,Pittsburgh Pirates pitcher Mark Melancon ejected by HP umpire D.  J.   Reyburn.  ,527,201501564,453343,8/2/15,,,pit,FALSE
+2015117899,Pittsburgh Pirates Manager Clint Hurdle ejected by HP umpire D.  J.   Reyburn.  ,529,201501564,116346,8/2/15,,,pit,FALSE
+2015122776,Miami Marlins Manager Dan Jennings ejected by HP umpire David Rackley.  ,577,201501627,664479,8/7/15,Y,C,mia,FALSE
+2015122979,Philadelphia Phillies Pitching Coach Bob McClure ejected by HP umpire Mike Estabrook.  ,316,201501630,118584,8/7/15,Y,C,phi,FALSE
+2015124410,Toronto Blue Jays Manager John Gibbons ejected by HP umpire Greg Gibson.  ,159,201501649,114744,8/8/15,,,tor,FALSE
+2015125520,Texas Rangers Manager Jeff Banister ejected by HP umpire Lance Barrett.  ,441,201501663,110529,8/9/15,Y,I,tex,FALSE
+2015125769,San Diego Padres Interim Manager Pat Murphy ejected by HP umpire Tony Randazzo.  ,238,201501667,580268,8/10/15,Y,C,sdn,TRUE
+2015130422,Chicago White Sox Manager Robin Ventura ejected by HP umpire Joe West.  ,500,201501728,123697,8/15/15,Y,C,cha,TRUE
+2015130616,Houston Astros Manager AJ Hinch ejected by HP umpire Bill Miller.  ,269,201501731,134460,8/15/15,,,hou,TRUE
+2015130932,Milwaukee Brewers Manager Craig Counsell ejected by 2B umpire Fieldin Culbreth.  ,391,201501735,112736,8/15/15,,,mil,TRUE
+2015131345,Washington Nationals Pitching Coach Steve McCatty ejected by HP umpire Cory Blaser.  ,191,201501740,118565,8/15/15,Y,C,was,FALSE
+2015131453,Kansas City Royals catcher Salvador Perez ejected by HP umpire Quinn Wolcott.  ,397,201501741,521692,8/16/15,Y,C,kca,TRUE
+2015131818,Detroit Tigers second baseman Ian Kinsler ejected by HP umpire Doug Eddings.  ,481,201501746,435079,8/16/15,Y,C,det,FALSE
+2015132257,San Diego Padres Interim Manager Pat Murphy ejected by 3B umpire Dan Iassogna.  ,282,201501752,580268,8/16/15,,,sdn,FALSE
+2015133015,Oakland Athletics center fielder Sam Fuld ejected by HP umpire Brian Knight.  ,269,201501762,453539,8/17/15,,,oak,FALSE
+2015133015,Oakland Athletics Manager Bob Melvin ejected by HP umpire Brian Knight.  ,271,201501762,118942,8/17/15,,,oak,FALSE
+2015133784,Kansas City Royals Manager Ned Yost III ejected by HP umpire Mark Carlson.  ,652,201501771,124681,8/18/15,,,kca,FALSE
+2015135753,Atlanta Braves Manager Fredi Gonzalez ejected by HP umpire Doug Eddings.  ,180,201501797,427190,8/20/15,Y,C,atl,FALSE
+2015135950,New York Yankees Manager Joe Girardi ejected by HP umpire Dan Iassogna.  ,562,201501799,114833,8/20/15,Y,C,nya,TRUE
+2015136682,Seattle Mariners Manager Lloyd McClendon ejected by HP umpire Quinn Wolcott.  ,549,201501809,118576,8/21/15,Y,C,sea,TRUE
+2015137502,Detroit Tigers Manager Brad Ausmus ejected by 3B umpire Ron Kulpa.  ,359,201501820,110385,8/21/15,,,det,TRUE
+2015137878,Cleveland Indians Manager Terry Francona ejected by 2B umpire Dan Iassogna.  ,207,201501825,114378,8/22/15,,,cle,FALSE
+2015138485,St.   Louis Cardinals third baseman Matt Carpenter ejected by HP umpire Chris Segal.  ,288,201501833,572761,8/22/15,Y,I,stl,FALSE
+2015138567,Tampa Bay Rays first baseman James Loney ejected by HP umpire Paul Nauert.  ,316,201501834,425766,8/22/15,Y,I,tba,FALSE
+2015139203,Los Angeles Dodgers right fielder Yasiel Puig ejected by HP umpire James Hoye.  ,504,201501842,624577,8/23/15,Y,C,lan,FALSE
+2015139359,Minnesota Twins Manager Paul Molitor ejected by HP umpire Chris Conroy.  ,568,201501844,119236,8/23/15,,,min,FALSE
+2015139799,Texas Rangers third baseman Adrian Beltre ejected by HP umpire Adam Hamari.  ,276,201501850,134181,8/23/15,Y,C,tex,FALSE
+2015139799,Texas Rangers Manager Jeff Banister ejected by 1B umpire Ron Kulpa.  ,280,201501850,110529,8/23/15,,,tex,FALSE
+2015140586,Miami Marlins pitcher Erik Cordier ejected by HP umpire Jeff Kellogg.  ,481,201501860,449170,8/24/15,,,mia,TRUE
+2015141457,Philadelphia Phillies Bench Coach Larry Bowa ejected by HP umpire Dan Bellino.  ,527,201501871,111281,8/25/15,,,phi,TRUE
+2015141686,San Diego Padres Interim Manager Pat Murphy ejected by HP umpire David Rackley.  ,507,201501874,580268,8/25/15,,,sdn,FALSE
+2015142263,Houston Astros left fielder Colby Rasmus ejected by HP umpire Sam Holbrook.  ,323,201501882,458675,8/26/15,Y,I,hou,FALSE
+2015143483,Pittsburgh Pirates catcher Francisco Cervelli ejected by HP umpire Alan Porter.  ,175,201501898,465041,8/27/15,Y,C,pit,FALSE
+2015144019,Boston Red Sox third baseman Pablo Sandoval ejected by HP umpire John Hirschbeck.  ,567,201501905,467055,8/28/15,,,bos,FALSE
+2015144414,Tampa Bay Rays Manager Kevin Cash ejected by 1B umpire Brian O'Nora.  ,262,201501911,408211,8/28/15,,,tba,TRUE
+2015146210,New York Mets Hitting Coach Kevin Long ejected by HP umpire Joe West.  ,164,201501935,438989,8/30/15,Y,I,nyn,TRUE
+2015146454,Colorado Rockies pitcher Jorge De La Rosa ejected by HP umpire Jeff Nelson.  ,423,201501938,407822,8/30/15,Y,C,col,FALSE
+2015148261,Arizona Diamondbacks Manager Chip Hale ejected by HP umpire Tim Timmons.  ,68,201501961,115330,9/1/15,,,azn,FALSE
+2015149142,San Francisco Giants Manager Bruce Bochy ejected by HP umpire Mike Winters.  ,399,201501972,111136,9/1/15,Y,I,sfn,FALSE
+2015149142,San Francisco Giants pitcher Jake Peavy ejected by HP umpire Mike Winters.  ,401,201501972,408241,9/1/15,Y,I,sfn,FALSE
+2015149803,Detroit Tigers first baseman Miguel Cabrera ejected by 3B umpire Gary Cederstrom.  ,214,201501981,408234,9/2/15,Y,C,det,FALSE
+2015150300,San Francisco Giants Manager Bruce Bochy ejected by 3B umpire Mike Winters.  ,372,201501987,111136,9/2/15,,,sfn,FALSE
+2015152339,Toronto Blue Jays shortstop Cliff Pennington ejected by HP umpire Tim Timmons.  ,393,201502013,460060,9/5/15,,,tor,TRUE
+2015154835,San Diego Padres left fielder Melvin Upton ejected by HP umpire Mike Muchlinski.  ,637,201502046,425834,9/7/15,Y,C,sdn,TRUE
+2015155072,Miami Marlins Manager Dan Jennings ejected by HP umpire Marvin Hudson.  ,523,201502049,664479,9/7/15,Y,I,mia,TRUE
+2015156098,Los Angeles Angels Manager Mike Scioscia ejected by 3B umpire Tripp Gibson III.  ,485,201502063,121919,9/8/15,,,laa,FALSE
+2015157583,Cincinnati Reds first baseman Joey Votto ejected by HP umpire Bill Welke.  ,513,201502082,458015,9/9/15,Y,I,cin,TRUE
+2015157583,Cincinnati Reds Manager Bryan Price ejected by HP umpire Bill Welke.  ,515,201502082,427406,9/9/15,Y,I,cin,TRUE
+2015158815,Baltimore Orioles Manager Buck Showalter ejected by HP umpire Mark Carlson.  ,670,201502098,427469,9/11/15,,,bal,TRUE
+2015163985,San Diego Padres Interim Manager Pat Murphy ejected by HP umpire Alfonso Marquez.  ,621,201502163,580268,9/15/15,Y,I,sdn,FALSE
+2015164249,Los Angeles Angels pitcher Jered Weaver ejected by HP umpire Brian O'Nora.  ,298,201502167,450308,9/16/15,,,laa,FALSE
+2015166999,Texas Rangers Manager Jeff Banister ejected by 3B umpire Chris Guccione.  ,136,201502203,110529,9/18/15,,,tex,TRUE
+2015167123,St.   Louis Cardinals pitcher Matt Belisle ejected by HP umpire Dan Bellino.  ,593,201502204,279571,9/18/15,,,stl,FALSE
+2015167123,St.   Louis Cardinals Manager Mike Matheny ejected by HP umpire Dan Bellino.  ,595,201502204,118414,9/18/15,,,stl,FALSE
+2015168383,Chicago Cubs pitcher Hector Rondon ejected by HP umpire Bruce Dreckman.  ,616,201502220,444468,9/19/15,,,chn,TRUE
+2015168383,Chicago Cubs Manager Joe Maddon ejected by HP umpire Bruce Dreckman.  ,618,201502220,427309,9/19/15,,,chn,TRUE
+2015169025,New York Yankees Manager Joe Girardi ejected by 3B umpire John Hirschbeck.  ,100,201502229,114833,9/20/15,,,nya,FALSE
+2015170336,Los Angeles Angels pitcher Hector Santiago ejected by HP umpire Chris Conroy.  ,336,201502246,502327,9/22/15,Y,I,laa,FALSE
+2015171706,Washington Nationals pitcher Jonathan Papelbon ejected by HP umpire Mark Ripperger.  ,570,201502264,449097,9/23/15,,,was,TRUE
+2015171920,Minnesota Twins pitcher Glen Perkins ejected by HP umpire Dan Bellino.  ,540,201502267,450282,9/23/15,Y,C,min,TRUE
+2015171921,Minnesota Twins pitcher Glen Perkins ejected by HP umpire Dan Bellino.  ,542,201502267,450282,9/23/15,,,min,TRUE
+2015171922,Minnesota Twins pitcher Glen Perkins ejected by HP umpire Dan Bellino.  ,544,201502267,450282,9/23/15,,,min,TRUE
+2015172477,Boston Red Sox pitcher Jean Machi ejected by HP umpire Bill Welke.  ,615,201502274,466948,9/23/15,,,bos,TRUE
+2015179410,New York Mets pitcher Hansel Robles ejected by HP umpire Bob Davidson.  ,530,201502366,570663,9/30/15,,,nyn,FALSE
+2015179410,New York Mets Manager Terry Collins ejected by HP umpire Bob Davidson.  ,534,201502366,492632,9/30/15,,,nyn,FALSE
+2016001663,Texas Rangers pitcher Tom Wilhelmsen ejected by HP umpire Marvin Hudson.  ,540,201600022,452666,4/5/16,,,tex,TRUE
+2016003856,Los Angeles Dodgers Manager Dave Roberts ejected by HP umpire Jeff Kellogg.  ,476,201600051,150353,4/8/16,Y,C,lan,FALSE
+2016005064,Detroit Tigers Manager Brad Ausmus ejected by HP umpire Paul Emmel.  ,358,201600067,110385,4/9/16,Y,C,det,TRUE
+2016005976,Minnesota Twins right fielder Miguel Sano ejected by HP umpire John Hirschbeck.  ,405,201600079,593934,4/10/16,Y,I,min,FALSE
+2016013026,Detroit Tigers left fielder Justin Upton ejected by HP umpire Rob Drake.  ,487,201600173,457708,4/17/16,Y,C,det,FALSE
+2016014929,San Diego Padres Manager Andy Green ejected by HP umpire Mark Carlson.  ,207,201600199,433477,4/19/16,,,sdn,TRUE
+2016017328,Baltimore Orioles catcher Matt Wieters ejected by HP umpire Dan Bellino.  ,373,201600230,446308,4/21/16,,,bal,TRUE
+2016017812,Miami Marlins Manager Don Mattingly ejected by HP umpire Brian Gorman.  ,243,201600237,118443,4/22/16,Y,C,mia,FALSE
+2016020664,Arizona Diamondbacks shortstop Nick Ahmed ejected by HP umpire Marvin Hudson.  ,982,201600272,605113,4/24/16,Y,I,azn,FALSE
+2016020817,San Diego Padres left fielder Melvin Upton ejected by HP umpire Sean Barber.  ,553,201600274,425834,4/24/16,Y,C,sdn,TRUE
+2016021741,Colorado Rockies Manager Walt Weiss ejected by HP umpire Lance Barrett.  ,258,201600287,124054,4/25/16,Y,I,col,TRUE
+2016021756,Colorado Rockies left fielder Ryan Raburn ejected by HP umpire Lance Barrett.  ,373,201600287,430605,4/25/16,Y,I,col,TRUE
+2016023266,Toronto Blue Jays Manager John Gibbons ejected by HP umpire John Tumpane.  ,432,201600307,114744,4/27/16,,,tor,TRUE
+2016023650,Miami Marlins pitcher David Phelps ejected by HP umpire Todd Tichenor.  ,528,201600312,475479,4/27/16,Y,C,mia,FALSE
+2016023650,Miami Marlins Manager Don Mattingly ejected by HP umpire Todd Tichenor.  ,530,201600312,118443,4/27/16,Y,C,mia,FALSE
+2016025668,Tampa Bay Rays Manager Kevin Cash ejected by HP umpire Mark Ripperger.  ,256,201600339,408211,4/29/16,Y,C,tba,TRUE
+2016025879,Chicago White Sox Manager Robin Ventura ejected by 1B umpire Gerry Davis.  ,189,201600342,123697,4/30/16,,,cha,FALSE
+2016028320,Minnesota Twins catcher John Ryan Murphy ejected by HP umpire Jerry Layne.  ,363,201600374,571974,5/2/16,Y,I,min,FALSE
+2016030472,Minnesota Twins pitcher Ryan Pressly ejected by HP umpire Scott Barry.  ,676,201600403,519151,5/4/16,Y,C,min,FALSE
+2016030472,Minnesota Twins Manager Paul Molitor ejected by HP umpire Scott Barry.  ,678,201600403,119236,5/4/16,Y,C,min,FALSE
+2016030918,Kansas City Royals first baseman Eric Hosmer ejected by HP umpire CB Bucknor.  ,509,201600409,543333,5/4/16,Y,I,kca,TRUE
+2016031358,New York Yankees Manager Joe Girardi ejected by 3B umpire Chris Guccione.  ,184,201600415,114833,5/5/16,,,nya,FALSE
+2016031711,Chicago Cubs center fielder Dexter Fowler ejected by HP umpire Vic Carapazza.  ,159,201600420,451594,5/5/16,Y,C,chn,TRUE
+2016031793,Atlanta Braves catcher A.  J.   Pierzynski ejected by HP umpire Cory Blaser.  ,286,201600421,150229,5/6/16,Y,I,atl,TRUE
+2016031905,Boston Red Sox Manager John Farrell ejected by HP umpire Ron Kulpa.  ,597,201600422,114023,5/6/16,Y,I,bos,FALSE
+2016031906,Boston Red Sox designated hitter David Ortiz ejected by HP umpire Ron Kulpa.  ,602,201600422,120074,5/6/16,Y,I,bos,FALSE
+2016032271,Chicago White Sox Manager Robin Ventura ejected by 1B umpire Bill Miller.  ,597,201600427,123697,5/6/16,,,cha,TRUE
+2016033784,Houston Astros Manager AJ Hinch ejected by HP umpire Ben May.  ,504,201600447,134460,5/7/16,Y,I,hou,TRUE
+2016033794,Houston Astros center fielder Carlos Gomez ejected by 1B umpire Jeff Nelson.  ,597,201600447,460576,5/7/16,Y,C,hou,TRUE
+2016035333,Chicago White Sox left fielder Melky Cabrera ejected by HP umpire Laz Diaz.  ,297,201600467,466320,5/9/16,Y,I,cha,FALSE
+2016035360,Texas Rangers Manager Jeff Banister ejected by HP umpire Laz Diaz.  ,527,201600467,110529,5/9/16,Y,I,tex,TRUE
+2016035537,Washington Nationals right fielder Bryce Harper ejected by HP umpire Brian Knight.  ,569,201600469,547180,5/9/16,Y,C,was,TRUE
+2016038000,Pittsburgh Pirates left fielder Starling Marte ejected by 2B umpire Alan Porter.  ,326,201600501,516782,5/11/16,,,pit,FALSE
+2016038000,Pittsburgh Pirates Manager Clint Hurdle ejected by HP umpire Jeff Kellogg.  ,328,201600501,116346,5/11/16,,,pit,FALSE
+2016038024,Cincinnati Reds pitcher Ross Ohlendorf ejected by HP umpire Jeff Kellogg.  ,537,201600501,456027,5/11/16,,,cin,TRUE
+2016038024,Cincinnati Reds Manager Bryan Price ejected by HP umpire Jeff Kellogg.  ,539,201600501,427406,5/11/16,,,cin,TRUE
+2016040917,New York Mets Manager Terry Collins ejected by HP umpire Carlos Torres.  ,245,201600539,492632,5/14/16,,,nyn,FALSE
+2016041062,Pittsburgh Pirates Pitching Coach Ray Searage ejected by HP umpire Brian Knight.  ,242,201600541,121956,5/14/16,Y,C,pit,FALSE
+2016041947,Boston Red Sox left fielder Brock Holt ejected by HP umpire Joe West.  ,613,201600551,571788,5/15/16,Y,C,bos,TRUE
+2016042556,Toronto Blue Jays First Base Coach Tim Leiper ejected by 1B umpire Dale Scott.  ,136,201600560,492502,5/15/16,,,tor,FALSE
+2016042560,Toronto Blue Jays Manager John Gibbons ejected by HP umpire Dan Iassogna.  ,182,201600560,114744,5/15/16,Y,I,tor,FALSE
+2016042610,Toronto Blue Jays right fielder Jose Bautista ejected by 1B umpire Dale Scott.  ,610,201600560,430832,5/15/16,,,tor,FALSE
+2016042610,Toronto Blue Jays third baseman Josh Donaldson ejected by 1B umpire Dale Scott.  ,612,201600560,518626,5/15/16,,,tor,FALSE
+2016042610,Texas Rangers second baseman Rougned Odor ejected by 1B umpire Dale Scott.  ,614,201600560,596059,5/15/16,,,tex,TRUE
+2016042610,Texas Rangers Bench Coach Steve Buechele ejected by 1B umpire Dale Scott.  ,616,201600560,111668,5/15/16,,,tex,TRUE
+2016042611,Toronto Blue Jays Bench Coach DeMarlo Hale ejected by HP umpire Dan Iassogna.  ,626,201600560,427204,5/15/16,,,tor,FALSE
+2016042611,Toronto Blue Jays pitcher Jesse Chavez ejected by HP umpire Dan Iassogna.  ,628,201600560,445926,5/15/16,,,tor,FALSE
+2016042994,Detroit Tigers Manager Brad Ausmus ejected by HP umpire Doug Eddings.  ,401,201600565,110385,5/16/16,Y,I,det,TRUE
+2016043150,Toronto Blue Jays Manager John Gibbons ejected by HP umpire Mike Winters.  ,343,201600567,114744,5/16/16,Y,C,tor,TRUE
+2016043466,Boston Red Sox Manager John Farrell ejected by HP umpire Bill Miller.  ,456,201600571,114023,5/17/16,Y,C,bos,FALSE
+2016046612,Los Angeles Angels pitcher Hector Santiago ejected by HP umpire John Tumpane.  ,191,201600613,502327,5/20/16,Y,C,laa,FALSE
+2016046967,Chicago White Sox right fielder Adam Eaton ejected by HP umpire Hunter Wendelstedt.  ,600,201600617,594809,5/20/16,Y,C,cha,TRUE
+2016046968,Chicago White Sox right fielder Adam Eaton ejected by HP umpire Hunter Wendelstedt.  ,602,201600617,594809,5/20/16,,,cha,TRUE
+2016047795,Los Angeles Angels third baseman Yunel Escobar ejected by HP umpire Dale Scott.  ,572,201600628,488862,5/21/16,Y,I,laa,FALSE
+2016048231,New York Mets Hitting Coach Kevin Long ejected by HP umpire Adrian Johnson.  ,391,201600634,438989,5/21/16,Y,C,nyn,TRUE
+2016048543,Toronto Blue Jays third baseman Josh Donaldson ejected by HP umpire Toby Basner.  ,19,201600639,518626,5/21/16,Y,C,tor,FALSE
+2016049657,Toronto Blue Jays Manager John Gibbons ejected by 1B umpire Joe West.  ,259,201600653,114744,5/22/16,,,tor,FALSE
+2016050786,Pittsburgh Pirates pitcher Arquimedes Caminero ejected by HP umpire Larry Vanover.  ,669,201600668,491708,5/24/16,,,pit,TRUE
+2016050786,Pittsburgh Pirates Manager Clint Hurdle ejected by HP umpire Larry Vanover.  ,671,201600668,116346,5/24/16,,,pit,TRUE
+2016050841,Houston Astros left fielder Colby Rasmus ejected by HP umpire Dana DeMuth.  ,386,201600669,458675,5/24/16,Y,I,hou,TRUE
+2016052624,Washington Nationals Hitting Coach Rick Schu ejected by HP umpire D.  J.   Reyburn.  ,279,201600692,121872,5/25/16,Y,C,was,TRUE
+2016054909,Cincinnati Reds pitcher Alfredo Simon ejected by HP umpire James Hoye.  ,301,201600722,430580,5/28/16,,,cin,FALSE
+2016055072,Los Angeles Angels third baseman Yunel Escobar ejected by HP umpire Vic Carapazza.  ,350,201600724,488862,5/28/16,Y,C,laa,FALSE
+2016055113,New York Mets pitcher Noah Syndergaard ejected by HP umpire Adam Hamari.  ,135,201600725,592789,5/28/16,,,nyn,TRUE
+2016055113,New York Mets Manager Terry Collins ejected by HP umpire Adam Hamari.  ,137,201600725,492632,5/28/16,,,nyn,TRUE
+2016057893,Cleveland Indians Manager Terry Francona ejected by HP umpire Manny Gonzalez.  ,189,201600762,114378,5/30/16,,,cle,TRUE
+2016063585,Chicago Cubs Manager Joe Maddon ejected by 1B umpire Tripp Gibson III.  ,443,201600836,427309,6/5/16,,,chn,TRUE
+2016064350,Tampa Bay Rays Hitting Coach Derek Shelton ejected by HP umpire Will Little.  ,160,201600847,486359,6/5/16,Y,C,tba,FALSE
+2016065777,Kansas City Royals pitcher Yordano Ventura ejected by 2B umpire Fieldin Culbreth.  ,362,201600866,570649,6/7/16,,,kca,FALSE
+2016065777,Baltimore Orioles third baseman Manny Machado ejected by 2B umpire Fieldin Culbreth.  ,364,201600866,592518,6/7/16,,,bal,TRUE
+2016066203,Arizona Diamondbacks Manager Chip Hale ejected by HP umpire Mark Ripperger.  ,194,201600872,115330,6/7/16,,,azn,FALSE
+2016067119,Pittsburgh Pirates right fielder Matt Joyce ejected by HP umpire Alan Porter.  ,491,201600884,459964,6/8/16,Y,C,pit,TRUE
+2016068738,Kansas City Royals Hitting Coach Dale Sveum ejected by 1B umpire Chris Guccione.  ,526,201600905,123011,6/10/16,,,kca,FALSE
+2016071115,Los Angeles Dodgers third baseman Justin Turner ejected by HP umpire Mike Muchlinski.  ,482,201600936,457759,6/12/16,Y,C,lan,FALSE
+2016071922,Chicago White Sox Manager Robin Ventura ejected by HP umpire Mark Carlson.  ,599,201600947,123697,6/13/16,Y,C,cha,TRUE
+2016073472,Tampa Bay Rays pitcher Jake Odorizzi ejected by HP umpire Jerry Meals.  ,409,201600967,543606,6/14/16,Y,I,tba,TRUE
+2016073751,Washington Nationals third baseman Anthony Rendon ejected by HP umpire Bob Davidson.  ,742,201600970,543685,6/15/16,Y,C,was,TRUE
+2016076915,Atlanta Braves Bench Coach Terry Pendleton ejected by HP umpire Marty Foster.  ,289,201601011,120381,6/18/16,,,atl,FALSE
+2016078375,Detroit Tigers center fielder Cameron Maybin ejected by HP umpire Gabe Morales.  ,544,201601030,457727,6/19/16,Y,C,det,FALSE
+2016082295,Atlanta Braves Interim Manager Brian Snitker ejected by HP umpire Jordan Baker.  ,475,201601082,492535,6/23/16,,,atl,TRUE
+2016083537,Cincinnati Reds Manager Bryan Price ejected by HP umpire Toby Basner.  ,220,201601098,427406,6/24/16,Y,C,cin,TRUE
+2016083781,Chicago White Sox Pitching Coach Don Cooper ejected by 1B umpire Angel Hernandez.  ,383,201601101,112653,6/24/16,,,cha,TRUE
+2016083807,Toronto Blue Jays Manager John Gibbons ejected by 3B umpire Ted Barrett.  ,611,201601101,114744,6/24/16,,,tor,FALSE
+2016084716,Cincinnati Reds center fielder Tyler Holt ejected by HP umpire Tom Hallion.  ,503,201601113,534627,6/25/16,,,cin,TRUE
+2016085547,Pittsburgh Pirates center fielder Andrew McCutchen ejected by HP umpire Chris Conroy.  ,477,201601124,457705,6/26/16,Y,I,pit,TRUE
+2016085988,Seattle Mariners Manager Scott Servais ejected by HP umpire Carlos Torres.  ,475,201601130,122011,6/26/16,,,sea,TRUE
+2016087473,Atlanta Braves left fielder Jeff Francoeur ejected by 1B umpire Hunter Wendelstedt.  ,557,201601148,425796,6/28/16,,,atl,TRUE
+2016088066,Pittsburgh Pirates Manager Clint Hurdle ejected by HP umpire Ben May.  ,240,201601156,116346,6/28/16,Y,C,pit,FALSE
+2016088066,Pittsburgh Pirates Hitting Coach Jeff Branson ejected by HP umpire Ben May.  ,242,201601156,111394,6/28/16,Y,C,pit,FALSE
+2016088138,Kansas City Royals pitcher Edinson Volquez ejected by HP umpire Tim Timmons.  ,259,201601157,450172,6/28/16,,,kca,TRUE
+2016088395,San Diego Padres Manager Andy Green ejected by 1B umpire Bill Miller.  ,283,201601160,433477,6/29/16,,,sdn,TRUE
+2016088893,Los Angeles Dodgers first baseman Adrian Gonzalez ejected by 3B umpire Dan Bellino.  ,241,201601166,408236,6/29/16,,,lan,FALSE
+2016089990,St.   Louis Cardinals Manager Mike Matheny ejected by HP umpire Mike Everitt.  ,384,201601180,118414,6/30/16,,,stl,FALSE
+2016090180,Atlanta Braves catcher Tyler Flowers ejected by HP umpire Larry Vanover.  ,726,201601182,452095,6/30/16,Y,IC,atl,TRUE
+2016090821,Toronto Blue Jays designated hitter Edwin Encarnacion ejected by HP umpire Vic Carapazza.  ,51,201601191,429665,7/1/16,Y,I,tor,TRUE
+2016090821,Toronto Blue Jays Manager John Gibbons ejected by HP umpire Vic Carapazza.  ,53,201601191,114744,7/1/16,Y,I,tor,TRUE
+2016090914,Toronto Blue Jays catcher Russell Martin ejected by HP umpire Vic Carapazza.  ,801,201601191,431145,7/1/16,Y,C,tor,TRUE
+2016092717,Arizona Diamondbacks Manager Chip Hale ejected by HP umpire Brian Knight.  ,383,201601214,115330,7/2/16,Y,I,azn,FALSE
+2016093036,Houston Astros Manager AJ Hinch ejected by HP umpire Ryan Blakney.  ,428,201601218,134460,7/3/16,,,hou,TRUE
+2016093821,Pittsburgh Pirates Manager Clint Hurdle ejected by HP umpire Sam Holbrook.  ,452,201601228,116346,7/3/16,Y,C,pit,FALSE
+2016095384,Chicago Cubs Manager Joe Maddon ejected by HP umpire Jerry Meals.  ,171,201601249,427309,7/5/16,Y,I,chn,TRUE
+2016095578,Detroit Tigers first baseman Miguel Cabrera ejected by 1B umpire Tim Timmons.  ,377,201601251,408234,7/5/16,,,det,FALSE
+2016096559,Los Angeles Dodgers Manager Dave Roberts ejected by HP umpire Pat Hoberg.  ,1035,201601263,150353,7/6/16,Y,C,lan,TRUE
+2016097886,Oakland Athletics center fielder Coco Crisp ejected by HP umpire D.  J.   Reyburn.  ,261,201601281,424825,7/7/16,Y,I,oak,FALSE
+2016098394,San Francisco Giants Manager Bruce Bochy ejected by HP umpire Quinn Wolcott.  ,129,201601288,111136,7/8/16,,,sfn,TRUE
+2016098425,Arizona Diamondbacks Manager Chip Hale ejected by HP umpire Quinn Wolcott.  ,381,201601288,115330,7/8/16,Y,C,azn,FALSE
+2016100633,Los Angeles Angels third baseman Yunel Escobar ejected by HP umpire Tim Timmons.  ,469,201601317,488862,7/10/16,,,laa,FALSE
+2016102664,San Francisco Giants first baseman Brandon Belt ejected by HP umpire Mike Estabrook.  ,511,201601344,474832,7/15/16,Y,C,sfn,FALSE
+2016102664,San Francisco Giants Manager Bruce Bochy ejected by HP umpire Mike Estabrook.  ,513,201601344,111136,7/15/16,Y,C,sfn,FALSE
+2016102773,Oakland Athletics first baseman Yonder Alonso ejected by HP umpire Mark Wegner.  ,331,201601346,475174,7/15/16,Y,C,oak,TRUE
+2016102773,Oakland Athletics Manager Bob Melvin ejected by HP umpire Mark Wegner.  ,333,201601346,118942,7/15/16,Y,C,oak,TRUE
+2016103514,Cincinnati Reds Manager Bryan Price ejected by HP umpire Quinn Wolcott.  ,221,201601356,427406,7/16/16,,,cin,TRUE
+2016105953,Atlanta Braves Interim Manager Brian Snitker ejected by 1B umpire Angel Hernandez.  ,631,201601388,492535,7/19/16,,,atl,FALSE
+2016107461,Pittsburgh Pirates Manager Clint Hurdle ejected by HP umpire Sam Holbrook.  ,21,201601409,116346,7/20/16,,,pit,TRUE
+2016107921,Colorado Rockies Hitting Coach Blake Doyle ejected by HP umpire Paul Emmel.  ,83,201601415,475733,7/20/16,Y,C,col,TRUE
+2016108221,Atlanta Braves catcher A.  J.   Pierzynski ejected by HP umpire Mike Winters.  ,526,201601418,150229,7/21/16,,,atl,FALSE
+2016113370,San Francisco Giants left fielder Angel Pagan ejected by HP umpire Joe West.  ,617,201601486,434636,7/26/16,Y,I,sfn,TRUE
+2016114911,Philadelphia Phillies Bench Coach Larry Bowa ejected by HP umpire Pat Hoberg.  ,231,201601507,111281,7/27/16,Y,I,phi,FALSE
+2016117579,New York Mets Manager Terry Collins ejected by 1B umpire Jeff Kellogg.  ,596,201601542,492632,7/30/16,,,nyn,TRUE
+2016117977,Pittsburgh Pirates first baseman David Freese ejected by HP umpire Marty Foster.  ,307,201601548,501896,7/30/16,Y,C,pit,FALSE
+2016118447,Boston Red Sox Manager John Farrell ejected by HP umpire Gabe Morales.  ,303,201601554,114023,7/31/16,Y,C,bos,FALSE
+2016121639,Cleveland Indians Manager Terry Francona ejected by HP umpire Manny Gonzalez.  ,259,201601596,114378,8/3/16,,,cle,TRUE
+2016121639,Cleveland Indians Pitching Coach Mickey Callaway ejected by HP umpire Manny Gonzalez.  ,264,201601596,209068,8/3/16,,,cle,TRUE
+2016121655,Cleveland Indians pitcher Corey Kluber ejected by 1B umpire Jim Reynolds.  ,396,201601596,446372,8/3/16,,,cle,TRUE
+2016122837,Oakland Athletics designated hitter Khris Davis ejected by HP umpire Eric Cooper.  ,527,201601611,501981,8/4/16,Y,I,oak,FALSE
+2016123558,Oakland Athletics third baseman Danny Valencia ejected by HP umpire Mike Estabrook.  ,412,201601621,502143,8/5/16,Y,C,oak,TRUE
+2016125405,Houston Astros second baseman Jose Altuve ejected by HP umpire Alan Porter.  ,519,201601645,514888,8/6/16,Y,I,hou,TRUE
+2016125999,Cleveland Indians designated hitter Mike Napoli ejected by HP umpire Lance Barrett.  ,467,201601653,435063,8/7/16,Y,I,cle,FALSE
+2016128802,Chicago White Sox Pitching Coach Don Cooper ejected by HP umpire Pat Hoberg.  ,33,201601690,112653,8/10/16,Y,C,cha,FALSE
+2016129476,Miami Marlins Hitting Coach Barry Bonds ejected by HP umpire Cory Blaser.  ,406,201601698,111188,8/10/16,Y,I,mia,TRUE
+2016130896,Milwaukee Brewers Manager Craig Counsell ejected by HP umpire Bill Miller.  ,554,201601716,112736,8/12/16,Y,C,mil,TRUE
+2016132078,Colorado Rockies pitcher Tyler Anderson ejected by HP umpire Eric Cooper.  ,232,201601732,542881,8/13/16,,,col,FALSE
+2016132078,Colorado Rockies Manager Walt Weiss ejected by HP umpire Eric Cooper.  ,238,201601732,124054,8/13/16,,,col,FALSE
+2016132264,Houston Astros left fielder Marwin Gonzalez ejected by HP umpire Doug Eddings.  ,514,201601734,503556,8/13/16,Y,I,hou,FALSE
+2016132796,Los Angeles Angels designated hitter Albert Pujols ejected by HP umpire Clint Fagan.  ,520,201601741,405395,8/14/16,Y,C,laa,FALSE
+2016134021,Detroit Tigers right fielder Tyler Collins ejected by HP umpire Dan Iassogna.  ,507,201601757,607385,8/15/16,Y,I,det,TRUE
+2016134052,Miami Marlins Manager Don Mattingly ejected by HP umpire Bill Welke.  ,171,201601758,118443,8/15/16,,,mia,FALSE
+2016135010,Miami Marlins Assistant Hitting Coach Frank Menechino ejected by HP umpire D.  J.   Reyburn.  ,542,201601770,236427,8/16/16,Y,C,mia,FALSE
+2016137119,Boston Red Sox Third Base Coach Brian Butterfield ejected by HP umpire Scott Barry.  ,113,201601798,427047,8/18/16,Y,C,bos,FALSE
+2016137560,Kansas City Royals Hitting Coach Dale Sveum ejected by HP umpire Todd Tichenor.  ,38,201601804,123011,8/18/16,,,kca,TRUE
+2016146266,Detroit Tigers designated hitter Victor Martinez ejected by HP umpire Mike Everitt.  ,228,201601918,400121,8/27/16,Y,C,det,TRUE
+2016146281,Detroit Tigers Hitting Coach Wally Joyner ejected by HP umpire Mike Everitt.  ,358,201601918,116780,8/27/16,Y,I,det,TRUE
+2016146281,Detroit Tigers Manager Brad Ausmus ejected by HP umpire Mike Everitt.  ,361,201601918,110385,8/27/16,Y,I,det,TRUE
+2016146288,Detroit Tigers right fielder J.   Martinez ejected by HP umpire Mike Everitt.  ,425,201601918,502110,8/27/16,Y,C,det,TRUE
+2016146775,Washington Nationals right fielder Bryce Harper ejected by HP umpire Mike Winters.  ,765,201601924,547180,8/27/16,Y,C,was,TRUE
+2016148938,New York Yankees Manager Joe Girardi ejected by HP umpire Brian O'Nora.  ,537,201601953,114833,8/29/16,Y,C,nya,FALSE
+2016151456,Seattle Mariners pitcher Arquimedes Caminero ejected by HP umpire Todd Tichenor.  ,527,201601986,491708,8/31/16,,,sea,FALSE
+2016152227,Arizona Diamondbacks Hitting Coach Dave Magadan ejected by HP umpire Bill Miller.  ,716,201601996,118132,9/2/16,,,azn,FALSE
+2016152717,Miami Marlins First Base Coach Perry Hill ejected by 1B umpire Mark Ripperger.  ,579,201602002,427228,9/2/16,,,mia,FALSE
+2016155036,Cleveland Indians Manager Terry Francona ejected by HP umpire Joe West.  ,697,201602032,114378,9/4/16,,,cle,TRUE
+2016155059,Milwaukee Brewers Manager Craig Counsell ejected by 2B umpire Brian Gorman.  ,155,201602033,112736,9/4/16,,,mil,FALSE
+2016155469,Toronto Blue Jays Manager John Gibbons ejected by HP umpire Pat Hoberg.  ,289,201602038,114744,9/4/16,Y,C,tor,FALSE
+2016159212,Houston Astros Manager AJ Hinch ejected by HP umpire Jim Joyce.  ,239,201602087,134460,9/8/16,,,hou,FALSE
+2016160565,Arizona Diamondbacks catcher Welington Castillo ejected by HP umpire Dale Scott.  ,992,201602104,456078,9/9/16,Y,C,azn,FALSE
+2016161393,Milwaukee Brewers first baseman Hernan Perez ejected by HP umpire Carlos Torres.  ,428,201602115,541650,9/10/16,Y,I,mil,FALSE
+2016161863,Los Angeles Angels Manager Mike Scioscia ejected by HP umpire Mike Winters.  ,708,201602121,121919,9/10/16,Y,I,laa,FALSE
+2016162023,Toronto Blue Jays Manager John Gibbons ejected by 1B umpire Jim Joyce.  ,742,201602123,114744,9/11/16,,,tor,TRUE
+2016162135,Pittsburgh Pirates left fielder Gregory Polanco ejected by HP umpire Pat Hoberg.  ,260,201602125,570256,9/11/16,Y,C,pit,TRUE
+2016163103,Chicago Cubs Manager Joe Maddon ejected by HP umpire Joe West.  ,472,201602138,427309,9/12/16,,,chn,FALSE
+2016164567,Miami Marlins Bench Coach Tim Wallach ejected by HP umpire Ramon De Jesus.  ,526,201602157,123865,9/13/16,Y,C,mia,FALSE
+2016164929,Pittsburgh Pirates Manager Clint Hurdle ejected by 1B umpire Alan Porter.  ,341,201602162,116346,9/13/16,,,pit,FALSE
+2016165666,Atlanta Braves pitcher Jose Ramirez ejected by HP umpire Marvin Hudson.  ,408,201602172,542432,9/14/16,,,atl,TRUE
+2016167917,Cincinnati Reds Manager Bryan Price ejected by HP umpire Gerry Davis.  ,706,201602201,427406,9/16/16,,,cin,TRUE
+2016169657,Detroit Tigers second baseman Ian Kinsler ejected by HP umpire Jordan Baker.  ,388,201602224,435079,9/18/16,,,det,FALSE
+2016169828,Los Angeles Dodgers center fielder Joc Pederson ejected by HP umpire Ryan Blakney.  ,583,201602226,592626,9/18/16,Y,C,lan,FALSE
+2016169895,Miami Marlins third baseman Martin Prado ejected by HP umpire Dale Scott.  ,213,201602227,445988,9/18/16,Y,C,mia,FALSE
+2016170701,Texas Rangers first baseman Mitch Moreland ejected by HP umpire Kerwin Danley.  ,227,201602238,519048,9/19/16,Y,I,tex,TRUE
+2016170711,Texas Rangers Manager Jeff Banister ejected by 2B umpire Joe West.  ,307,201602238,110529,9/19/16,,,tex,TRUE
+2016171005,Kansas City Royals shortstop Alcides Escobar ejected by HP umpire Toby Basner.  ,359,201602242,444876,9/19/16,Y,C,kca,TRUE
+2016171005,Kansas City Royals Manager Ned Yost III ejected by HP umpire Toby Basner.  ,361,201602242,124681,9/19/16,Y,C,kca,TRUE
+2016171361,Toronto Blue Jays third baseman Josh Donaldson ejected by HP umpire Chris Conroy.  ,388,201602247,518626,9/19/16,Y,I,tor,FALSE
+2016171529,Los Angeles Angels Manager Mike Scioscia ejected by HP umpire Pat Hoberg.  ,640,201602249,121919,9/20/16,,,laa,FALSE
+2016171529,Los Angeles Angels pitcher Brett Oberholtzer ejected by HP umpire Pat Hoberg.  ,642,201602249,519085,9/20/16,,,laa,FALSE
+2016172044,Oakland Athletics right fielder Danny Valencia ejected by HP umpire Marty Foster.  ,521,201602256,502143,9/20/16,Y,I,oak,TRUE
+2016173284,Milwaukee Brewers Manager Craig Counsell ejected by HP umpire Jerry Layne.  ,243,201602273,112736,9/21/16,,,mil,TRUE
+2016173925,Colorado Rockies Manager Walt Weiss ejected by HP umpire Alfonso Marquez.  ,535,201602281,124054,9/22/16,Y,I,col,FALSE
+2016173925,Colorado Rockies third baseman Nolan Arenado ejected by HP umpire Alfonso Marquez.  ,537,201602281,571448,9/22/16,Y,I,col,FALSE
+2016174647,Atlanta Braves Interim Manager Brian Snitker ejected by HP umpire Adam Hamari.  ,200,201602291,492535,9/23/16,Y,C,atl,FALSE
+2016174648,Atlanta Braves right fielder Matt Kemp ejected by HP umpire Adam Hamari.  ,214,201602291,461314,9/23/16,Y,C,atl,FALSE
+2016177299,Detroit Tigers center fielder Cameron Maybin ejected by HP umpire Dan Iassogna.  ,809,201602325,457727,9/25/16,,,det,TRUE
+2016177773,Washington Nationals pitcher A.  J.   Cole ejected by HP umpire Jordan Baker.  ,267,201602332,595918,9/25/16,,,was,FALSE
+2016177773,Pittsburgh Pirates first baseman Sean Rodriguez ejected by HP umpire Jordan Baker.  ,272,201602332,446481,9/25/16,Y,C,pit,TRUE
+2016178252,New York Yankees Manager Joe Girardi ejected by HP umpire Todd Tichenor.  ,111,201602338,114833,9/26/16,,,nya,FALSE
+2016178253,New York Yankees pitcher Luis Severino ejected by HP umpire Todd Tichenor.  ,118,201602338,622663,9/26/16,,,nya,FALSE
+2016178253,New York Yankees Bench Coach Rob Thomson ejected by HP umpire Todd Tichenor.  ,120,201602338,479080,9/26/16,,,nya,FALSE
+2016178253,New York Yankees Pitching Coach Larry Rothschild ejected by HP umpire Todd Tichenor.  ,122,201602338,121495,9/26/16,,,nya,FALSE
+2016178752,Baltimore Orioles first baseman Chris Davis ejected by HP umpire Will Little.  ,432,201602344,448801,9/27/16,Y,C,bal,FALSE
+2016178752,Baltimore Orioles Manager Buck Showalter ejected by HP umpire Will Little.  ,434,201602344,427469,9/27/16,Y,C,bal,FALSE
+2016182379,Philadelphia Phillies Manager Pete Mackanin ejected by 1B umpire Will Little.  ,465,201602393,118093,9/30/16,,,phi,TRUE
+2016183479,New York Mets left fielder Yoenis Cespedes ejected by HP umpire Will Little.  ,576,201602408,493316,10/1/16,Y,C,nyn,FALSE
+2017002163,Miami Marlins Manager Don Mattingly ejected by HP umpire Ron Kulpa.  ,454,201700029,118443,4/5/17,,,mia,FALSE
+2017003390,Los Angeles Dodgers center fielder Joc Pederson ejected by HP umpire David Rackley.  ,580,201700045,592626,4/6/17,Y,C,lan,TRUE
+2017006979,Tampa Bay Rays center fielder Kevin Kiermaier ejected by HP umpire Mike Muchlinski.  ,456,201700092,595281,4/9/17,Y,I,tba,TRUE
+2017007486,Philadelphia Phillies Manager Pete Mackanin ejected by HP umpire Alan Porter.  ,461,201700099,118093,4/10/17,,,phi,TRUE
+2017011034,Colorado Rockies Manager Bud Black ejected by HP umpire Mike Everitt.  ,254,201700146,111034,4/14/17,,,col,FALSE
+2017013951,Seattle Mariners Manager Scott Servais ejected by 1B umpire CB Bucknor.  ,427,201700185,122011,4/16/17,,,sea,TRUE
+2017016325,Tampa Bay Rays Manager Kevin Cash ejected by HP umpire Larry Vanover.  ,685,201700217,408211,4/19/17,,,tba,TRUE
+2017016717,Texas Rangers Manager Jeff Banister ejected by HP umpire Bill Welke.  ,201,201700223,110529,4/19/17,,,tex,FALSE
+2017017197,Minnesota Twins Manager Paul Molitor ejected by HP umpire Alan Porter.  ,636,201700229,119236,4/20/17,,,min,TRUE
+2017017806,Boston Red Sox Third Base Coach Brian Butterfield ejected by 3B umpire Alan Porter.  ,545,201700237,427047,4/21/17,,,bos,FALSE
+2017019201,Detroit Tigers pitcher Matthew Boyd ejected by HP umpire Jordan Baker.  ,415,201700255,571510,4/22/17,,,det,FALSE
+2017019201,Minnesota Twins third baseman Miguel Sano ejected by HP umpire Jordan Baker.  ,417,201700255,593934,4/22/17,,,min,TRUE
+2017020133,Boston Red Sox pitcher Matt Barnes ejected by HP umpire Andy Fletcher.  ,552,201700267,598264,4/23/17,,,bos,FALSE
+2017020663,San Diego Padres Manager Andy Green ejected by HP umpire Paul Emmel.  ,485,201700274,433477,4/23/17,Y,C,sdn,TRUE
+2017020949,St.   Louis Cardinals first baseman Matt Carpenter ejected by HP umpire John Tumpane.  ,478,201700278,572761,4/23/17,Y,I,stl,FALSE
+2017020949,St.   Louis Cardinals Manager Mike Matheny ejected by HP umpire John Tumpane.  ,480,201700278,118414,4/23/17,Y,I,stl,FALSE
+2017020994,Toronto Blue Jays Manager John Gibbons ejected by HP umpire Ramon De Jesus.  ,170,201700279,114744,4/23/17,,,tor,FALSE
+2017021495,Texas Rangers Manager Jeff Banister ejected by HP umpire Alfonso Marquez.  ,569,201700285,110529,4/24/17,Y,I,tex,TRUE
+2017021694,Toronto Blue Jays Manager John Gibbons ejected by HP umpire Toby Basner.  ,366,201700288,114744,4/24/17,Y,I,tor,FALSE
+2017026012,Milwaukee Brewers left fielder Ryan Braun ejected by HP umpire Quinn Wolcott.  ,544,201700343,460075,4/29/17,Y,I,mil,TRUE
+2017027086,Baltimore Orioles Manager Buck Showalter ejected by HP umpire Stu Scheurwater.  ,717,201700357,427469,4/30/17,,,bal,FALSE
+2017030227,Baltimore Orioles pitcher Kevin Gausman ejected by HP umpire Sam Holbrook.  ,128,201700398,592332,5/3/17,,,bal,FALSE
+2017030253,Baltimore Orioles center fielder Adam Jones ejected by HP umpire Sam Holbrook.  ,334,201700398,430945,5/3/17,Y,I,bal,FALSE
+2017031138,New York Yankees Manager Joe Girardi ejected by HP umpire Bill Welke.  ,535,201700409,114833,5/3/17,Y,I,nya,TRUE
+2017031794,Oakland Athletics  Ryon Healy ejected by HP umpire Mike Muchlinski.  ,590,201700417,592387,5/4/17,Y,C,oak,FALSE
+2017034594,Chicago White Sox Manager Rick Renteria ejected by HP umpire Paul Emmel.  ,244,201700453,121075,5/7/17,Y,I,cha,FALSE
+2017035702,Toronto Blue Jays Manager John Gibbons ejected by 2B umpire Vic Carapazza.  ,502,201700466,114744,5/8/17,,,tor,TRUE
+2017036047,Miami Marlins Manager Don Mattingly ejected by HP umpire Hunter Wendelstedt.  ,143,201700471,118443,5/8/17,Y,I,mia,TRUE
+2017036809,Tampa Bay Rays Manager Kevin Cash ejected by 3B umpire Bill Welke.  ,205,201700481,408211,5/9/17,,,tba,TRUE
+2017037292,Miami Marlins center fielder Christian Yelich ejected by HP umpire Andy Fletcher.  ,44,201700487,592885,5/9/17,Y,I,mia,TRUE
+2017037292,Miami Marlins Manager Don Mattingly ejected by HP umpire Andy Fletcher.  ,46,201700487,118443,5/9/17,Y,I,mia,TRUE
+2017037507,Washington Nationals second baseman Daniel Murphy ejected by HP umpire Laz Diaz.  ,566,201700489,502517,5/9/17,Y,I,was,FALSE
+2017037913,Toronto Blue Jays Pitching Coach Pete Walker ejected by HP umpire Vic Carapazza.  ,198,201700495,123839,5/10/17,Y,C,tor,TRUE
+2017039739,New York Yankees third baseman Chase Headley ejected by HP umpire Adrian Johnson.  ,418,201700518,452104,5/12/17,,,nya,TRUE
+2017042155,New York Mets second baseman Neil Walker ejected by HP umpire Phil Cuzzi.  ,727,201700550,435522,5/14/17,Y,C,nyn,FALSE
+2017043681,Chicago White Sox Pitching Coach Don Cooper ejected by HP umpire Tripp Gibson III.  ,462,201700569,112653,5/16/17,Y,C,cha,FALSE
+2017047150,Los Angeles Dodgers pitcher Ross Stripling ejected by HP umpire Carlos Torres.  ,519,201700614,548389,5/19/17,,,lan,TRUE
+2017047150,Miami Marlins Manager Don Mattingly ejected by HP umpire Carlos Torres.  ,521,201700614,118443,5/19/17,,,mia,FALSE
+2017047150,Los Angeles Dodgers Bench Coach Bob Geren ejected by HP umpire Carlos Torres.  ,523,201700614,114712,5/19/17,,,lan,TRUE
+2017047440,St.   Louis Cardinals Manager Mike Matheny ejected by HP umpire Nic Lentz.  ,457,201700618,118414,5/19/17,Y,C,stl,FALSE
+2017047886,Oakland Athletics Manager Bob Melvin ejected by 3B umpire Mike Winters.  ,154,201700624,118942,5/20/17,,,oak,TRUE
+2017048312,New York Yankees Pitching Coach Larry Rothschild ejected by HP umpire Scott Barry.  ,451,201700629,121495,5/20/17,Y,C,nya,FALSE
+2017048312,New York Yankees Manager Joe Girardi ejected by HP umpire Scott Barry.  ,453,201700629,114833,5/20/17,Y,C,nya,FALSE
+2017048316,Tampa Bay Rays pitcher Matt Andriese ejected by HP umpire Scott Barry.  ,480,201700629,542882,5/20/17,,,tba,TRUE
+2017050463,Pittsburgh Pirates third baseman David Freese ejected by HP umpire Phil Cuzzi.  ,224,201700658,501896,5/22/17,Y,I,pit,FALSE
+2017050463,Pittsburgh Pirates Manager Clint Hurdle ejected by HP umpire Phil Cuzzi.  ,226,201700658,116346,5/22/17,Y,I,pit,FALSE
+2017051194,Pittsburgh Pirates Manager Clint Hurdle ejected by HP umpire Nic Lentz.  ,56,201700668,116346,5/23/17,,,pit,FALSE
+2017053350,Seattle Mariners Manager Scott Servais ejected by HP umpire Adam Hamari.  ,338,201700696,122011,5/25/17,Y,C,sea,FALSE
+2017053721,Milwaukee Brewers Manager Craig Counsell ejected by HP umpire Jim Reynolds.  ,378,201700701,112736,5/26/17,,,mil,TRUE
+2017055259,Kansas City Royals first baseman Eric Hosmer ejected by HP umpire Bill Welke.  ,43,201700723,543333,5/27/17,,,kca,FALSE
+2017055259,Kansas City Royals Manager Ned Yost III ejected by HP umpire Bill Welke.  ,45,201700723,124681,5/27/17,,,kca,FALSE
+2017055483,Oakland Athletics second baseman Jed Lowrie ejected by HP umpire Will Little.  ,506,201700725,476704,5/27/17,Y,C,oak,FALSE
+2017055486,Oakland Athletics Manager Bob Melvin ejected by HP umpire Will Little.  ,538,201700725,118942,5/27/17,Y,I,oak,FALSE
+2017058170,San Francisco Giants pitcher Hunter Strickland ejected by HP umpire Brian Gorman.  ,454,201700760,519326,5/29/17,,,sfn,TRUE
+2017058170,Washington Nationals right fielder Bryce Harper ejected by HP umpire Brian Gorman.  ,456,201700760,547180,5/29/17,,,was,FALSE
+2017059516,Atlanta Braves Manager Brian Snitker ejected by 1B umpire Ted Barrett.  ,260,201700777,492535,5/31/17,,,atl,FALSE
+2017060805,Los Angeles Dodgers first baseman Adrian Gonzalez ejected by HP umpire Marty Foster.  ,592,201700794,408236,6/1/17,Y,I,lan,FALSE
+2017060806,Los Angeles Dodgers catcher Yasmani Grandal ejected by HP umpire Marty Foster.  ,603,201700794,518735,6/1/17,Y,I,lan,FALSE
+2017060836,New York Mets Manager Terry Collins ejected by 3B umpire Fieldin Culbreth.  ,236,201700795,492632,6/1/17,,,nyn,TRUE
+2017062518,Detroit Tigers Manager Brad Ausmus ejected by 1B umpire Fieldin Culbreth.  ,60,201700817,110385,6/3/17,,,det,TRUE
+2017070286,Atlanta Braves left fielder Matt Kemp ejected by HP umpire Phil Cuzzi.  ,515,201700919,461314,6/10/17,Y,I,atl,TRUE
+2017071049,Colorado Rockies right fielder Carlos Gonzalez ejected by HP umpire Marvin Hudson.  ,345,201700929,471865,6/11/17,Y,C,col,FALSE
+2017075068,Chicago White Sox right fielder Avisail Garcia ejected by 1B umpire Paul Emmel.  ,338,201700980,541645,6/15/17,,,cha,TRUE
+2017075068,Chicago White Sox Manager Rick Renteria ejected by 1B umpire Paul Emmel.  ,340,201700980,121075,6/15/17,,,cha,TRUE
+2017076040,Chicago Cubs Manager Joe Maddon ejected by 3B umpire Jeff Kellogg.  ,10,201700993,427309,6/16/17,,,chn,FALSE
+2017076693,San Francisco Giants Manager Bruce Bochy ejected by HP umpire Gary Cederstrom.  ,434,201701001,111136,6/16/17,Y,I,sfn,FALSE
+2017077476,Cincinnati Reds Manager Bryan Price ejected by HP umpire Stu Scheurwater.  ,159,201701012,427406,6/17/17,Y,C,cin,TRUE
+2017078359,Houston Astros first baseman Yuli Gurriel ejected by HP umpire Greg Gibson.  ,657,201701022,493329,6/18/17,Y,I,hou,TRUE
+2017078803,Atlanta Braves Manager Brian Snitker ejected by HP umpire Chris Segal.  ,387,201701028,492535,6/18/17,Y,C,atl,TRUE
+2017078978,Texas Rangers Manager Jeff Banister ejected by 3B umpire Joe West.  ,102,201701031,110529,6/18/17,,,tex,TRUE
+2017080166,Miami Marlins second baseman Christian Colon ejected by HP umpire Carlos Torres.  ,500,201701046,518568,6/19/17,Y,C,mia,TRUE
+2017083870,Detroit Tigers Manager Brad Ausmus ejected by 1B umpire Jordan Baker.  ,467,201701094,110385,6/23/17,,,det,FALSE
+2017084236,Chicago White Sox Manager Rick Renteria ejected by HP umpire Jim Wolf.  ,319,201701099,121075,6/23/17,,,cha,TRUE
+2017084236,Chicago White Sox shortstop Tim Anderson ejected by HP umpire Jim Wolf.  ,322,201701099,641313,6/23/17,,,cha,TRUE
+2017084621,Boston Red Sox Manager John Farrell ejected by 3B umpire Bill Miller.  ,421,201701104,114023,6/24/17,,,bos,TRUE
+2017085101,Milwaukee Brewers left fielder Nick Franklin ejected by 2B umpire Jerry Meals.  ,24,201701111,545338,6/24/17,,,mil,FALSE
+2017085376,Chicago White Sox third baseman Todd Frazier ejected by 1B umpire Sam Holbrook.  ,516,201701114,453943,6/24/17,,,cha,TRUE
+2017085376,Chicago White Sox Manager Rick Renteria ejected by 1B umpire Sam Holbrook.  ,518,201701114,121075,6/24/17,,,cha,TRUE
+2017086828,Kansas City Royals pitcher Peter Moylan ejected by HP umpire John Tumpane.  ,419,201701133,493247,6/25/17,Y,C,kca,TRUE
+2017089258,Chicago White Sox Manager Rick Renteria ejected by HP umpire Hunter Wendelstedt.  ,425,201701165,121075,6/28/17,Y,C,cha,TRUE
+2017089261,Chicago White Sox pitcher Jake Petricka ejected by HP umpire Hunter Wendelstedt.  ,454,201701165,502593,6/28/17,,,cha,TRUE
+2017089553,Arizona Diamondbacks catcher Jeff Mathis ejected by HP umpire D.   Reyburn.  ,276,201701169,425772,6/28/17,Y,I,azn,FALSE
+2017089553,Arizona Diamondbacks Manager Torey Lovullo ejected by HP umpire D.  J.   Reyburn.  ,278,201701169,117950,6/28/17,Y,I,azn,FALSE
+2017089920,Washington Nationals Manager Dusty Baker ejected by 1B umpire David Rackley.  ,348,201701174,110481,6/29/17,,,was,TRUE
+2017090115,Cincinnati Reds Manager Bryan Price ejected by HP umpire Fieldin Culbreth.  ,172,201701177,427406,6/29/17,,,cin,TRUE
+2017091002,Los Angeles Dodgers Manager Dave Roberts ejected by HP umpire Greg Gibson.  ,109,201701189,150353,6/30/17,,,lan,FALSE
+2017091002,San Diego Padres Manager Andy Green ejected by HP umpire Greg Gibson.  ,114,201701189,433477,6/30/17,,,sdn,TRUE
+2017096179,Los Angeles Angels third baseman Yunel Escobar ejected by HP umpire Doug Eddings.  ,327,201701256,488862,7/5/17,Y,C,laa,FALSE
+2017097629,Houston Astros left fielder Marwin Gonzalez ejected by HP umpire John Libka.  ,454,201701275,503556,7/6/17,Y,C,hou,FALSE
+2017098243,Atlanta Braves Manager Brian Snitker ejected by 3B umpire Mike Everitt.  ,591,201701283,492535,7/7/17,,,atl,FALSE
+2017099617,Colorado Rockies center fielder Charlie Blackmon ejected by HP umpire Sam Holbrook.  ,611,201701301,453568,7/8/17,Y,C,col,TRUE
+2017099617,Colorado Rockies Manager Bud Black ejected by HP umpire Sam Holbrook.  ,613,201701301,111034,7/8/17,Y,C,col,TRUE
+2017099890,Kansas City Royals center fielder Lorenzo Cain ejected by HP umpire Bill Miller.  ,455,201701305,456715,7/8/17,Y,I,kca,FALSE
+2017100765,Cincinnati Reds third baseman Eugenio Suarez ejected by HP umpire Brian O'Nora.  ,331,201701317,553993,7/9/17,Y,C,cin,FALSE
+2017102330,Pittsburgh Pirates Manager Clint Hurdle ejected by HP umpire Jerry Layne.  ,415,201701337,116346,7/14/17,,,pit,TRUE
+2017103359,Chicago White Sox Manager Rick Renteria ejected by 2B umpire Tom Hallion.  ,456,201701350,121075,7/15/17,,,cha,TRUE
+2017105801,Tampa Bay Rays second baseman Tim Beckham ejected by HP umpire Lance Barrett.  ,232,201701382,542921,7/17/17,Y,C,tba,FALSE
+2017106504,Milwaukee Brewers third baseman Travis Shaw ejected by HP umpire Mike Muchlinski.  ,478,201701391,543768,7/18/17,Y,I,mil,FALSE
+2017106504,Milwaukee Brewers Manager Craig Counsell ejected by HP umpire Mike Muchlinski.  ,480,201701391,112736,7/18/17,Y,I,mil,FALSE
+2017106925,Tampa Bay Rays Manager Kevin Cash ejected by HP umpire Bill Welke.  ,307,201701397,408211,7/18/17,Y,C,tba,FALSE
+2017110387,Boston Red Sox Manager John Farrell ejected by HP umpire Phil Cuzzi.  ,330,201701441,114023,7/22/17,Y,C,bos,FALSE
+2017113476,San Francisco Giants Manager Bruce Bochy ejected by HP umpire Chris Conroy.  ,144,201701482,111136,7/24/17,Y,C,sfn,TRUE
+2017113539,San Francisco Giants Pitching Coach Dave Righetti ejected by HP umpire Chris Conroy.  ,698,201701482,121201,7/24/17,Y,C,sfn,TRUE
+2017113944,Chicago Cubs third baseman Kris Bryant ejected by HP umpire Lance Barksdale.  ,317,201701487,592178,7/25/17,Y,I,chn,TRUE
+2017115422,Detroit Tigers pitcher Bruce Rondon ejected by HP umpire D.  J.   Reyburn.  ,677,201701506,541652,7/26/17,,,det,TRUE
+2017115517,Texas Rangers third baseman Adrian Beltre ejected by 2B umpire Gerry Davis.  ,731,201701507,134181,7/26/17,,,tex,TRUE
+2017115517,Texas Rangers Manager Jeff Banister ejected by 2B umpire Gerry Davis.  ,733,201701507,110529,7/26/17,,,tex,TRUE
+2017115595,Washington Nationals right fielder Bryce Harper ejected by HP umpire Chris Segal.  ,484,201701508,547180,7/26/17,Y,C,was,TRUE
+2017116362,Toronto Blue Jays Manager John Gibbons ejected by HP umpire Will Little.  ,285,201701519,114744,7/27/17,Y,C,tor,TRUE
+2017116363,Toronto Blue Jays catcher Russell Martin ejected by HP umpire Will Little.  ,292,201701519,431145,7/27/17,Y,C,tor,TRUE
+2017116363,Toronto Blue Jays pitcher Marcus Stroman ejected by HP umpire Will Little.  ,294,201701519,573186,7/27/17,Y,C,tor,TRUE
+2017116472,New York Yankees Manager Joe Girardi ejected by HP umpire Stu Scheurwater.  ,493,201701520,114833,7/27/17,Y,I,nya,TRUE
+2017118831,Arizona Diamondbacks center fielder A.  J.   Pollock ejected by HP umpire D.   Reyburn.  ,602,201701551,572041,7/30/17,Y,I,azn,FALSE
+2017119173,Chicago White Sox Hitting Coach Todd Steverson ejected by HP umpire Lance Barrett.  ,289,201701556,122771,7/30/17,Y,I,cha,TRUE
+2017119605,Minnesota Twins designated hitter Miguel Sano ejected by HP umpire Phil Cuzzi.  ,767,201701561,593934,7/30/17,Y,I,min,FALSE
+2017120315,Texas Rangers Pitching Coach Doug Brocail ejected by HP umpire Doug Eddings.  ,614,201701570,111492,7/31/17,,,tex,TRUE
+2017122066,Kansas City Royals designated hitter Mike Moustakas ejected by HP umpire John Tumpane.  ,550,201701593,519058,8/2/17,Y,C,kca,FALSE
+2017122066,Kansas City Royals Manager Ned Yost III ejected by HP umpire John Tumpane.  ,552,201701593,124681,8/2/17,Y,C,kca,FALSE
+2017123002,Cincinnati Reds center fielder Billy Hamilton ejected by HP umpire Todd Tichenor.  ,295,201701606,571740,8/3/17,Y,C,cin,FALSE
+2017123513,Kansas City Royals Manager Ned Yost III ejected by HP umpire Larry Vanover.  ,209,201701613,124681,8/3/17,,,kca,TRUE
+2017125918,Washington Nationals catcher Matt Wieters ejected by HP umpire Chad Whitson.  ,433,201701645,446308,8/5/17,Y,C,was,FALSE
+2017126594,Philadelphia Phillies Bench Coach Larry Bowa ejected by HP umpire Carlos Torres.  ,427,201701654,111281,8/6/17,Y,I,phi,FALSE
+2017126695,San Diego Padres Manager Andy Green ejected by HP umpire Tripp Gibson III.  ,700,201701655,433477,8/6/17,,,sdn,FALSE
+2017127098,Houston Astros right fielder Josh Reddick ejected by HP umpire Rob Drake.  ,645,201701660,502210,8/6/17,Y,C,hou,TRUE
+2017127728,Los Angeles Angels designated hitter Albert Pujols ejected by 1B umpire Ramon De Jesus.  ,332,201701669,405395,8/8/17,,,laa,FALSE
+2017127728,Los Angeles Angels Manager Mike Scioscia ejected by 1B umpire Ramon De Jesus.  ,334,201701669,121919,8/8/17,,,laa,FALSE
+2017132429,Cincinnati Reds catcher Devin Mesoraco ejected by 3B umpire Larry Vanover.  ,704,201701730,519023,8/12/17,,,cin,FALSE
+2017132560,Colorado Rockies third baseman Nolan Arenado ejected by 1B umpire Pat Hoberg.  ,482,201701732,571448,8/12/17,,,col,FALSE
+2017132613,Texas Rangers Bench Coach Steve Buechele ejected by 1B umpire Stu Scheurwater.  ,280,201701733,111668,8/12/17,,,tex,TRUE
+2017133035,Los Angeles Dodgers second baseman Chase Utley ejected by 2B umpire Ramon De Jesus.  ,653,201701738,400284,8/12/17,,,lan,TRUE
+2017133742,Texas Rangers Manager Jeff Banister ejected by 1B umpire Tripp Gibson III.  ,207,201701748,110529,8/13/17,,,tex,TRUE
+2017134695,Detroit Tigers second baseman Ian Kinsler ejected by HP umpire Angel Hernandez.  ,306,201701760,435079,8/14/17,Y,C,det,FALSE
+2017134695,Detroit Tigers Manager Brad Ausmus ejected by HP umpire Angel Hernandez.  ,309,201701760,110385,8/14/17,Y,C,det,FALSE
+2017136592,Seattle Mariners Manager Scott Servais ejected by 1B umpire Stu Scheurwater.  ,661,201701785,122011,8/16/17,,,sea,TRUE
+2017136740,Chicago Cubs Manager Joe Maddon ejected by 1B umpire Chris Conroy.  ,630,201701787,427309,8/16/17,,,chn,TRUE
+2017137286,St.   Louis Cardinals Manager Mike Matheny ejected by HP umpire Chris Segal.  ,644,201701794,118414,8/16/17,,,stl,FALSE
+2017137343,Toronto Blue Jays Manager John Gibbons ejected by HP umpire Lance Barksdale.  ,450,201701795,114744,8/16/17,Y,C,tor,TRUE
+2017140665,Arizona Diamondbacks Manager Torey Lovullo ejected by HP umpire John Tumpane.  ,518,201701838,117950,8/20/17,,,azn,FALSE
+2017143494,Toronto Blue Jays center fielder Kevin Pillar ejected by HP umpire Chad Fairchild.  ,153,201701875,607680,8/22/17,Y,C,tor,FALSE
+2017145166,Pittsburgh Pirates Manager Clint Hurdle ejected by HP umpire Paul Emmel.  ,509,201701896,116346,8/24/17,Y,C,pit,TRUE
+2017145402,New York Yankees Manager Joe Girardi ejected by HP umpire Carlos Torres.  ,468,201701899,114833,8/24/17,,,nya,FALSE
+2017145402,New York Yankees pitcher Tommy Kahnle ejected by HP umpire Carlos Torres.  ,470,201701899,592454,8/24/17,,,nya,FALSE
+2017145402,Detroit Tigers designated hitter Miguel Cabrera ejected by HP umpire Carlos Torres.  ,475,201701899,408234,8/24/17,,,det,TRUE
+2017145402,New York Yankees catcher Austin Romine ejected by 1B umpire Dana DeMuth.  ,477,201701899,519222,8/24/17,,,nya,FALSE
+2017145412,New York Yankees pitcher Dellin Betances ejected by 1B umpire Dana DeMuth.  ,596,201701899,476454,8/24/17,,,nya,FALSE
+2017145412,New York Yankees Bench Coach Rob Thomson ejected by 1B umpire Dana DeMuth.  ,598,201701899,479080,8/24/17,,,nya,FALSE
+2017145421,Detroit Tigers Manager Brad Ausmus ejected by 1B umpire Dana DeMuth.  ,680,201701899,110385,8/24/17,,,det,TRUE
+2017145421,Detroit Tigers pitcher Alex Wilson ejected by HP umpire Carlos Torres.  ,682,201701899,543935,8/24/17,,,det,TRUE
+2017146035,Houston Astros Bench Coach Alex Cora ejected by HP umpire Laz Diaz.  ,23,201701908,133321,8/25/17,,,hou,FALSE
+2017147129,Detroit Tigers Manager Brad Ausmus ejected by HP umpire Nick Mahrley.  ,282,201701922,110385,8/26/17,Y,C,det,FALSE
+2017148901,New York Yankees Manager Joe Girardi ejected by 2B umpire Mike Everitt.  ,214,201701946,114833,8/27/17,,,nya,TRUE
+2017148988,Arizona Diamondbacks left fielder David Peralta ejected by HP umpire Ron Kulpa.  ,286,201701947,444482,8/27/17,Y,I,azn,FALSE
+2017152738,Houston Astros Manager AJ Hinch ejected by 2B umpire Joe West.  ,74,201701997,134460,8/31/17,,,hou,TRUE
+2017153949,Baltimore Orioles center fielder Adam Jones ejected by HP umpire Pat Hoberg.  ,69,201702013,430945,9/1/17,Y,C,bal,TRUE
+2017154068,Milwaukee Brewers left fielder Ryan Braun ejected by HP umpire Mark Ripperger.  ,242,201702014,460075,9/1/17,Y,C,mil,TRUE
+2017155457,Texas Rangers center fielder Carlos Gomez ejected by HP umpire Mike Estabrook.  ,223,201702032,460576,9/3/17,Y,I,tex,TRUE
+2017155713,Boston Red Sox Pitching Coach Carl Willis ejected by HP umpire Sam Holbrook.  ,448,201702035,124356,9/3/17,Y,I,bos,FALSE
+2017155950,Minnesota Twins Manager Paul Molitor ejected by HP umpire Marty Foster.  ,436,201702038,119236,9/3/17,,,min,TRUE
+2017156655,Oakland Athletics Hitting Coach Darren Bush ejected by HP umpire Jordan Baker.  ,490,201702047,470252,9/4/17,Y,C,oak,TRUE
+2017158842,Toronto Blue Jays third baseman Josh Donaldson ejected by HP umpire Marvin Hudson.  ,1065,201702074,518626,9/5/17,Y,C,tor,FALSE
+2017158956,Oakland Athletics third baseman Matt Chapman ejected by HP umpire Mike Everitt.  ,252,201702076,656305,9/6/17,,,oak,TRUE
+2017159044,Los Angeles Dodgers third baseman Justin Turner ejected by HP umpire Chad Fairchild.  ,400,201702077,457759,9/6/17,Y,I,lan,TRUE
+2017161771,Chicago White Sox pitcher Lucas Giolito ejected by HP umpire Gabe Morales.  ,364,201702113,608337,9/8/17,Y,I,cha,TRUE
+2017161771,Chicago White Sox Manager Rick Renteria ejected by 2B umpire Eric Cooper.  ,367,201702113,121075,9/8/17,,,cha,TRUE
+2017163304,Cincinnati Reds second baseman Scooter Gennett ejected by HP umpire Shane Livensparger.  ,528,201702133,571697,9/10/17,Y,C,cin,FALSE
+2017163313,New York Mets Manager Terry Collins ejected by 1B umpire Jerry Layne.  ,613,201702133,492632,9/10/17,,,nyn,TRUE
+2017163519,Houston Astros center fielder Jake Marisnick ejected by HP umpire Ramon De Jesus.  ,264,201702136,545350,9/10/17,Y,C,hou,FALSE
+2017165986,Texas Rangers Manager Jeff Banister ejected by HP umpire Jeff Nelson.  ,296,201702168,110529,9/12/17,Y,I,tex,TRUE
+2017166436,Detroit Tigers catcher James McCann ejected by HP umpire Quinn Wolcott.  ,242,201702174,543510,9/13/17,Y,C,det,FALSE
+2017166436,Detroit Tigers Manager Brad Ausmus ejected by HP umpire Quinn Wolcott.  ,244,201702174,110385,9/13/17,Y,C,det,FALSE
+2017166943,Pittsburgh Pirates Manager Clint Hurdle ejected by HP umpire Bill Welke.  ,64,201702181,116346,9/13/17,Y,I,pit,FALSE
+2017167150,Seattle Mariners second baseman Robinson Cano ejected by HP umpire Vic Carapazza.  ,452,201702183,429664,9/13/17,,,sea,FALSE
+2017168673,Miami Marlins Manager Don Mattingly ejected by HP umpire Ryan Additon.  ,626,201702202,118443,9/15/17,,,mia,TRUE
+2017169073,Chicago Cubs catcher Willson Contreras ejected by HP umpire Jordan Baker.  ,272,201702208,575929,9/15/17,Y,I,chn,TRUE
+2017169073,Chicago Cubs pitcher John Lackey ejected by HP umpire Jordan Baker.  ,274,201702208,407793,9/15/17,,,chn,TRUE
+2017169439,Tampa Bay Rays first baseman Logan Morrison ejected by HP umpire Jeff Nelson.  ,313,201702213,489149,9/16/17,Y,I,tba,TRUE
+2017170032,San Diego Padres pitcher Miguel Diaz ejected by HP umpire Gerry Davis.  ,418,201702221,622766,9/16/17,,,sdn,FALSE
+2017175125,Houston Astros left fielder Marwin Gonzalez ejected by HP umpire Dan Iassogna.  ,357,201702289,503556,9/22/17,Y,I,hou,TRUE
+2017175126,Houston Astros Manager AJ Hinch ejected by HP umpire Dan Iassogna.  ,361,201702289,134460,9/22/17,Y,I,hou,TRUE
+2017177392,Houston Astros Manager AJ Hinch ejected by HP umpire Will Little.  ,575,201702319,134460,9/24/17,,,hou,TRUE
+2017179229,Toronto Blue Jays right fielder Jose Bautista ejected by HP umpire Chad Fairchild.  ,504,201702344,430832,9/25/17,Y,C,tor,FALSE
+2018000868,Atlanta Braves Manager Brian Snitker ejected by 3B umpire Jordan Baker.  ,642,201800011,492535,3/29/18,,,atl,TRUE
+2018001353,Arizona Diamondbacks second baseman Ketel Marte ejected by HP umpire Eric Cooper.  ,503,201800017,606466,3/30/18,Y,C,azn,FALSE
+2018001786,Detroit Tigers Manager Ron Gardenhire ejected by 1B umpire Bill Welke.  ,831,201800022,114599,3/30/18,,,det,TRUE
+2018002747,Atlanta Braves Manager Brian Snitker ejected by 2B umpire Jerry Layne.  ,284,201800035,492535,3/31/18,,,atl,TRUE
+2018003394,Houston Astros first baseman Marwin Gonzalez ejected by 1B umpire Jerry Meals.  ,529,201800043,503556,4/1/18,Y,IC,hou,FALSE
+2018006994,Milwaukee Brewers third baseman Travis Shaw ejected by HP umpire Brian O'Nora.  ,432,201800090,543768,4/5/18,Y,I,mil,TRUE
+2018007378,Washington Nationals shortstop Trea Turner ejected by HP umpire Doug Eddings.  ,372,201800095,607208,4/5/18,Y,I,was,TRUE
+2018009081,Washington Nationals third baseman Anthony Rendon ejected by HP umpire Marty Foster.  ,193,201800116,543685,4/7/18,Y,I,was,TRUE
+2018009081,Washington Nationals Manager Dave Martinez ejected by HP umpire Marty Foster.  ,195,201800116,118363,4/7/18,Y,I,was,TRUE
+2018009511,Arizona Diamondbacks Manager Torey Lovullo ejected by HP umpire Tim Timmons.  ,72,201800122,117950,4/8/18,Y,C,azn,FALSE
+2018011202,San Diego Padres Manager Andy Green ejected by 2B umpire Brian Gorman.  ,413,201800144,433477,4/9/18,,,sdn,FALSE
+2018013268,Boston Red Sox pitcher Joe Kelly ejected by HP umpire Hunter Wendelstedt.  ,515,201800170,523260,4/11/18,,,bos,TRUE
+2018013268,New York Yankees designated hitter Tyler Austin ejected by HP umpire Hunter Wendelstedt.  ,517,201800170,592122,4/11/18,,,nya,FALSE
+2018013268,New York Yankees pitcher Tommy Kahnle ejected by HP umpire Hunter Wendelstedt.  ,519,201800170,592454,4/11/18,,,nya,FALSE
+2018013268,New York Yankees Third Base Coach Phil Nevin ejected by HP umpire Hunter Wendelstedt.  ,521,201800170,119732,4/11/18,,,nya,FALSE
+2018013548,San Diego Padres catcher A.  J.   Ellis ejected by HP umpire Brian Gorman.  ,168,201800174,454560,4/11/18,,,sdn,FALSE
+2018013548,San Diego Padres pitcher Luis Perdomo ejected by HP umpire Brian Gorman.  ,170,201800174,606131,4/11/18,,,sdn,FALSE
+2018013548,Colorado Rockies third baseman Nolan Arenado ejected by HP umpire Brian Gorman.  ,172,201800174,571448,4/11/18,,,col,TRUE
+2018013548,Colorado Rockies pitcher German Marquez ejected by HP umpire Brian Gorman.  ,180,201800174,608566,4/11/18,,,col,TRUE
+2018013548,Colorado Rockies left fielder Gerardo Parra ejected by HP umpire Brian Gorman.  ,182,201800174,467827,4/11/18,,,col,TRUE
+2018016676,Milwaukee Brewers Manager Craig Counsell ejected by HP umpire Hunter Wendelstedt.  ,330,201800215,112736,4/15/18,Y,I,mil,FALSE
+2018017961,Los Angeles Angels designated hitter Albert Pujols ejected by HP umpire Vic Carapazza.  ,432,201800232,405395,4/17/18,Y,C,laa,FALSE
+2018023281,Chicago Cubs Assistant Hitting Coach Andy Haines ejected by HP umpire Cory Blaser.  ,24,201800301,534388,4/22/18,,,chn,FALSE
+2018023281,Chicago Cubs Hitting Coach Chili Davis ejected by HP umpire Cory Blaser.  ,27,201800301,113099,4/22/18,,,chn,FALSE
+2018025871,Chicago White Sox Manager Rick Renteria ejected by HP umpire Mike Estabrook.  ,370,201800334,121075,4/24/18,Y,I,cha,TRUE
+2018027580,Pittsburgh Pirates Manager Clint Hurdle ejected by 2B umpire Mike Winters.  ,468,201800356,116346,4/26/18,,,pit,TRUE
+2018028631,New York Yankees Bench Coach Josh Bard ejected by HP umpire Alan Porter.  ,179,201800370,408036,4/27/18,Y,C,nya,FALSE
+2018029707,San Francisco Giants Pitching Coach Curt Young ejected by HP umpire Tripp Gibson III.  ,309,201800384,124689,4/28/18,Y,I,sfn,TRUE
+2018034651,Toronto Blue Jays Manager John Gibbons ejected by HP umpire Dan Bellino.  ,145,201800449,114744,5/2/18,,,tor,FALSE
+2018035928,Cleveland Indians first baseman Yonder Alonso ejected by HP umpire Tim Timmons.  ,513,201800465,475174,5/4/18,Y,I,cle,FALSE
+2018037335,Arizona Diamondbacks pitcher Archie Bradley ejected by 3B umpire Dan Iassogna.  ,663,201800483,605151,5/5/18,,,azn,FALSE
+2018037854,Toronto Blue Jays Manager John Gibbons ejected by HP umpire CB Bucknor.  ,539,201800490,114744,5/5/18,Y,I,tor,FALSE
+2018038994,Toronto Blue Jays Manager John Gibbons ejected by HP umpire Jeremie Rehak.  ,497,201800505,114744,5/6/18,,,tor,FALSE
+2018042807,Los Angeles Dodgers left fielder Matt Kemp ejected by HP umpire Alan Porter.  ,455,201800555,461314,5/11/18,Y,C,lan,TRUE
+2018044404,Detroit Tigers Manager Ron Gardenhire ejected by HP umpire Carlos Torres.  ,397,201800575,114599,5/12/18,Y,C,det,TRUE
+2018044899,Arizona Diamondbacks right fielder Steven Souza Jr.   ejected by HP umpire Doug Eddings.  ,591,201800581,519306,5/12/18,Y,I,azn,FALSE
+2018046618,Minnesota Twins left fielder Robbie Grossman ejected by HP umpire D.  J.   Reyburn.  ,287,201800604,543257,5/14/18,Y,C,min,TRUE
+2018047656,Seattle Mariners Manager Scott Servais ejected by 1B umpire Jeff Nelson.  ,716,201800618,122011,5/15/18,,,sea,TRUE
+2018048876,San Francisco Giants shortstop Brandon Crawford ejected by HP umpire Chris Segal.  ,772,201800634,543063,5/17/18,Y,C,sfn,TRUE
+2018048876,San Francisco Giants Manager Bruce Bochy ejected by HP umpire Chris Segal.  ,774,201800634,111136,5/17/18,Y,C,sfn,TRUE
+2018049267,San Diego Padres shortstop Freddy Galvis ejected by HP umpire Will Little.  ,577,201800639,520471,5/17/18,Y,C,sdn,FALSE
+2018049415,Texas Rangers Manager Jeff Banister ejected by HP umpire Paul Nauert.  ,537,201800641,110529,5/17/18,Y,I,tex,FALSE
+2018051960,Chicago Cubs left fielder Kyle Schwarber ejected by HP umpire John Tumpane.  ,442,201800675,656941,5/20/18,Y,IC,chn,FALSE
+2018053077,Baltimore Orioles designated hitter Mark Trumbo ejected by HP umpire Jeremie Rehak.  ,555,201800690,444432,5/21/18,Y,C,bal,FALSE
+2018053629,Milwaukee Brewers Manager Craig Counsell ejected by HP umpire Angel Hernandez.  ,517,201800698,112736,5/22/18,Y,I,mil,TRUE
+2018054269,New York Yankees Manager Aaron Boone ejected by HP umpire Pat Hoberg.  ,386,201800707,111213,5/22/18,Y,C,nya,FALSE
+2018054504,Seattle Mariners Manager Scott Servais ejected by HP umpire Brian Knight.  ,544,201800710,122011,5/22/18,Y,C,sea,FALSE
+2018059042,Houston Astros Manager AJ Hinch ejected by HP umpire Tony Randazzo.  ,330,201800771,134460,5/27/18,Y,C,hou,FALSE
+2018059754,Los Angeles Angels catcher Martin Maldonado ejected by HP umpire Mark Ripperger.  ,440,201800780,455117,5/28/18,Y,C,laa,FALSE
+2018059754,Los Angeles Angels Manager Mike Scioscia ejected by HP umpire Mark Ripperger.  ,442,201800780,121919,5/28/18,Y,C,laa,FALSE
+2018059910,Pittsburgh Pirates Manager Clint Hurdle ejected by HP umpire Bill Welke.  ,460,201800782,116346,5/28/18,,,pit,TRUE
+2018068898,Tampa Bay Rays center fielder Mallex Smith ejected by 3B umpire Tom Woodring.  ,445,201800900,605480,6/5/18,,,tba,FALSE
+2018069669,Milwaukee Brewers Manager Craig Counsell ejected by HP umpire Quinn Wolcott.  ,549,201800910,112736,6/6/18,Y,C,mil,FALSE
+2018071780,Seattle Mariners First Base Coach Chris Prieto ejected by HP umpire David Rackley.  ,569,201800938,408076,6/8/18,,,sea,FALSE
+2018072736,New York Mets second baseman Asdrubal Cabrera ejected by HP umpire John Tumpane.  ,570,201800950,452678,6/9/18,Y,C,nyn,TRUE
+2018073673,Texas Rangers Manager Jeff Banister ejected by 3B umpire Sam Holbrook.  ,680,201800962,110529,6/10/18,,,tex,TRUE
+2018074765,San Francisco Giants pitcher Madison Bumgarner ejected by HP umpire Jeremie Rehak.  ,431,201800977,518516,6/11/18,Y,C,sfn,FALSE
+2018075506,New York Mets Manager Mickey Callaway ejected by HP umpire Stu Scheurwater.  ,314,201800987,209068,6/12/18,,,nyn,FALSE
+2018076110,Boston Red Sox pitcher Chris Sale ejected by HP umpire Brian Knight.  ,511,201800995,519242,6/13/18,Y,C,bos,FALSE
+2018076879,Los Angeles Dodgers left fielder Matt Kemp ejected by HP umpire Sean Barber.  ,189,201801006,461314,6/13/18,,,lan,TRUE
+2018076879,Texas Rangers catcher Robinson Chirinos ejected by HP umpire Sean Barber.  ,191,201801006,455139,6/13/18,,,tex,FALSE
+2018078657,San Diego Padres Manager Andy Green ejected by HP umpire Joe West.  ,288,201801029,433477,6/15/18,,,sdn,FALSE
+2018080496,Kansas City Royals designated hitter Mike Moustakas ejected by HP umpire John Tumpane.  ,205,201801054,519058,6/17/18,Y,IC,kca,TRUE
+2018080515,Kansas City Royals pitcher Danny Duffy ejected by HP umpire John Tumpane.  ,359,201801054,518633,6/17/18,Y,IC,kca,TRUE
+2018080729,New York Mets pitcher Jason Vargas ejected by HP umpire Jim Reynolds.  ,239,201801057,450306,6/17/18,Y,IC,nyn,FALSE
+2018081567,Colorado Rockies Manager Bud Black ejected by 1B umpire Bill Welke.  ,253,201801068,111034,6/18/18,,,col,TRUE
+2018082370,Los Angeles Dodgers Manager Dave Roberts ejected by HP umpire Tripp Gibson III.  ,377,201801078,150353,6/19/18,Y,C,lan,FALSE
+2018082370,Los Angeles Dodgers left fielder Matt Kemp ejected by HP umpire Tripp Gibson III.  ,379,201801078,461314,6/19/18,Y,C,lan,FALSE
+2018082404,Los Angeles Dodgers catcher Yasmani Grandal ejected by HP umpire Tripp Gibson III.  ,694,201801078,518735,6/19/18,Y,C,lan,FALSE
+2018082513,Miami Marlins pitcher Dan Straily ejected by HP umpire Andy Fletcher.  ,165,201801080,573185,6/19/18,,,mia,FALSE
+2018082513,Miami Marlins Manager Don Mattingly ejected by HP umpire Andy Fletcher.  ,167,201801080,118443,6/19/18,,,mia,FALSE
+2018082978,Houston Astros left fielder Marwin Gonzalez ejected by HP umpire Pat Hoberg.  ,241,201801086,503556,6/19/18,Y,C,hou,TRUE
+2018083351,Chicago White Sox Manager Rick Renteria ejected by HP umpire Will Little.  ,385,201801091,121075,6/20/18,Y,I,cha,FALSE
+2018084065,Kansas City Royals shortstop Alcides Escobar ejected by HP umpire Chad Fairchild.  ,484,201801100,444876,6/20/18,Y,C,kca,TRUE
+2018085817,St.   Louis Cardinals center fielder Tommy Pham ejected by HP umpire Tim Timmons.  ,26,201801123,502054,6/22/18,Y,I,stl,FALSE
+2018086205,Chicago Cubs Bench Coach Brandon Hyde ejected by HP umpire Greg Gibson.  ,259,201801128,492493,6/23/18,,,chn,FALSE
+2018089082,Baltimore Orioles Manager Buck Showalter ejected by HP umpire Stu Scheurwater.  ,576,201801165,427469,6/25/18,,,bal,TRUE
+2018089082,Baltimore Orioles pitcher Darren O'Day ejected by HP umpire Stu Scheurwater.  ,578,201801165,503285,6/25/18,,,bal,TRUE
+2018090624,Cincinnati Reds first baseman Joey Votto ejected by HP umpire Carlos Torres.  ,20,201801186,458015,6/27/18,Y,C,cin,FALSE
+2018090959,Minnesota Twins Third Base Coach Gene Glynn ejected by 3B umpire Gerry Davis.  ,344,201801190,427186,6/27/18,,,min,FALSE
+2018090959,Minnesota Twins Manager Paul Molitor ejected by 3B umpire Gerry Davis.  ,350,201801190,119236,6/27/18,,,min,FALSE
+2018091076,Detroit Tigers Manager Ron Gardenhire ejected by HP umpire Lance Barksdale.  ,187,201801192,114599,6/27/18,Y,IC,det,TRUE
+2018091997,Chicago White Sox shortstop Tim Anderson ejected by 2B umpire Gerry Davis.  ,761,201801203,641313,6/28/18,,,cha,TRUE
+2018093129,San Diego Padres Manager Andy Green ejected by HP umpire Angel Hernandez.  ,250,201801219,433477,6/29/18,,,sdn,TRUE
+2018093635,Texas Rangers left fielder Ryan Rua ejected by HP umpire Joe West.  ,442,201801225,607387,6/30/18,Y,C,tex,TRUE
+2018096845,Cincinnati Reds Interim Manager Jim Riggleman ejected by HP umpire Eric Cooper.  ,902,201801266,427427,7/3/18,,,cin,TRUE
+2018098438,Los Angeles Dodgers pitcher Daniel Hudson ejected by 1B umpire Jeff Nelson.  ,425,201801287,543339,7/4/18,,,lan,TRUE
+2018101119,New York Yankees pitcher CC Sabathia ejected by HP umpire Lance Barrett.  ,223,201801323,282332,7/7/18,Y,C,nya,FALSE
+2018101120,Toronto Blue Jays Manager John Gibbons ejected by HP umpire Lance Barrett.  ,239,201801323,114744,7/7/18,Y,C,tor,TRUE
+2018102326,Toronto Blue Jays First Base Coach Tim Leiper ejected by 1B umpire Bill Welke.  ,456,201801338,492502,7/8/18,,,tor,TRUE
+2018102538,Arizona Diamondbacks center fielder A.  J.   Pollock ejected by HP umpire Jansen Visconti.  ,379,201801341,572041,7/8/18,Y,I,azn,FALSE
+2018102799,Texas Rangers Manager Jeff Banister ejected by HP umpire Chris Segal.  ,102,201801344,110529,7/8/18,,,tex,FALSE
+2018103145,Kansas City Royals Manager Ned Yost III ejected by HP umpire Will Little.  ,221,201801348,124681,7/9/18,Y,I,kca,FALSE
+2018104487,Oakland Athletics Manager Bob Melvin ejected by HP umpire David Rackley.  ,255,201801366,118942,7/10/18,,,oak,FALSE
+2018108561,Chicago White Sox Manager Rick Renteria ejected by HP umpire Adam Hamari.  ,285,201801418,121075,7/14/18,,,cha,TRUE
+2018108780,New York Yankees Manager Aaron Boone ejected by HP umpire Ed Hickox.  ,314,201801421,111213,7/14/18,,,nya,FALSE
+2018108852,San Francisco Giants first baseman Brandon Belt ejected by 3B umpire Greg Gibson.  ,301,201801422,474832,7/14/18,,,sfn,TRUE
+2018110212,Minnesota Twins third baseman Eduardo Escobar ejected by HP umpire Ryan Additon.  ,549,201801440,500871,7/15/18,,,min,TRUE
+2018112457,New York Mets Hitting Coach Pat Roessler ejected by HP umpire Larry Vanover.  ,117,201801469,504331,7/21/18,Y,C,nyn,FALSE
+2018112480,New York Mets designated hitter Asdrubal Cabrera ejected by 3B umpire Hunter Wendelstedt.  ,298,201801469,452678,7/21/18,Y,C,nyn,FALSE
+2018112802,Chicago Cubs second baseman Javier Baez ejected by HP umpire Will Little.  ,331,201801473,595879,7/21/18,,,chn,TRUE
+2018112802,Chicago Cubs Manager Joe Maddon ejected by HP umpire Will Little.  ,333,201801473,427309,7/21/18,,,chn,TRUE
+2018113470,Miami Marlins left fielder Cameron Maybin ejected by HP umpire Andy Fletcher.  ,222,201801482,457727,7/22/18,Y,I,mia,FALSE
+2018114884,Washington Nationals Hitting Coach Kevin Long ejected by HP umpire Nic Lentz.  ,92,201801501,438989,7/23/18,Y,C,was,FALSE
+2018116589,Toronto Blue Jays Manager John Gibbons ejected by HP umpire Sean Barber.  ,812,201801522,114744,7/25/18,Y,C,tor,TRUE
+2018118897,Chicago White Sox Manager Rick Renteria ejected by 3B umpire Fieldin Culbreth.  ,32,201801553,121075,7/27/18,,,cha,TRUE
+2018118897,Chicago White Sox Pitching Coach Don Cooper ejected by 3B umpire Fieldin Culbreth.  ,34,201801553,112653,7/27/18,,,cha,TRUE
+2018125714,Boston Red Sox Manager Alex Cora ejected by HP umpire Adam Hamari.  ,30,201801642,133321,8/3/18,,,bos,TRUE
+2018126311,Chicago White Sox Manager Rick Renteria ejected by 1B umpire Jerry Meals.  ,304,201801650,121075,8/4/18,,,cha,FALSE
+2018126465,Cincinnati Reds catcher Tucker Barnhart ejected by HP umpire Andy Fletcher.  ,300,201801652,571466,8/4/18,Y,C,cin,FALSE
+2018129435,Toronto Blue Jays pitcher Ryan Tepera ejected by HP umpire Ed Hickox.  ,507,201801691,572193,8/7/18,Y,IC,tor,TRUE
+2018130450,Washington Nationals left fielder Juan Soto ejected by HP umpire Greg Gibson.  ,388,201801704,665742,8/8/18,Y,C,was,TRUE
+2018130450,Washington Nationals Hitting Coach Kevin Long ejected by HP umpire Greg Gibson.  ,390,201801704,438989,8/8/18,Y,C,was,TRUE
+2018131801,Minnesota Twins Hitting Coach James Rowson ejected by HP umpire Adrian Johnson.  ,461,201801722,494875,8/9/18,Y,I,min,FALSE
+2018131994,Houston Astros pitcher Justin Verlander ejected by HP umpire Nic Lentz.  ,144,201801725,434378,8/9/18,,,hou,TRUE
+2018133251,Chicago Cubs Manager Joe Maddon ejected by HP umpire Bill Miller.  ,460,201801741,427309,8/10/18,,,chn,TRUE
+2018134200,Kansas City Royals pitcher Danny Duffy ejected by 1B umpire Adam Hamari.  ,364,201801754,518633,8/11/18,,,kca,TRUE
+2018135369,St.   Louis Cardinals pitcher Tyler Webb ejected by HP umpire Adam Hamari.  ,629,201801769,643778,8/12/18,,,stl,FALSE
+2018136981,Chicago Cubs Manager Joe Maddon ejected by HP umpire Phil Cuzzi.  ,358,201801791,427309,8/14/18,Y,I,chn,TRUE
+2018136998,Chicago Cubs second baseman Ben Zobrist ejected by HP umpire Phil Cuzzi.  ,513,201801791,450314,8/14/18,Y,I,chn,TRUE
+2018137267,San Francisco Giants catcher Nick Hundley ejected by HP umpire Eric Cooper.  ,434,201801795,460026,8/14/18,,,sfn,FALSE
+2018137267,Los Angeles Dodgers right fielder Yasiel Puig ejected by HP umpire Eric Cooper.  ,436,201801795,624577,8/14/18,,,lan,TRUE
+2018137886,Miami Marlins pitcher Jose Urena ejected by HP umpire Chad Fairchild.  ,45,201801804,570632,8/15/18,,,mia,FALSE
+2018137886,Atlanta Braves Manager Brian Snitker ejected by 3B umpire Paul Nauert.  ,47,201801804,492535,8/15/18,,,atl,TRUE
+2018139503,Arizona Diamondbacks shortstop Nick Ahmed ejected by HP umpire James Hoye.  ,210,201801824,605113,8/17/18,Y,C,azn,FALSE
+2018140115,Miami Marlins Manager Don Mattingly ejected by HP umpire Ben May.  ,210,201801832,118443,8/17/18,Y,IC,mia,FALSE
+2018141298,Milwaukee Brewers Manager Craig Counsell ejected by HP umpire Cory Blaser.  ,56,201801848,112736,8/18/18,,,mil,FALSE
+2018142766,Toronto Blue Jays Manager John Gibbons ejected by 1B umpire Jansen Visconti.  ,507,201801867,114744,8/19/18,,,tor,FALSE
+2018143227,Seattle Mariners Manager Scott Servais ejected by HP umpire Mike Muchlinski.  ,539,201801873,122011,8/20/18,Y,C,sea,TRUE
+2018146810,Kansas City Royals Bench Coach Dale Sveum ejected by HP umpire Ramon De Jesus.  ,478,201801921,123011,8/24/18,Y,C,kca,TRUE
+2018148097,Los Angeles Angels pitcher Deck McGuire ejected by HP umpire Bruce Dreckman.  ,605,201801937,592547,8/25/18,,,laa,FALSE
+2018148097,Los Angeles Angels Manager Mike Scioscia ejected by HP umpire Bruce Dreckman.  ,607,201801937,121919,8/25/18,,,laa,FALSE
+2018151683,Washington Nationals first baseman Mark Reynolds ejected by HP umpire Sam Holbrook.  ,451,201801984,448602,8/28/18,Y,I,was,FALSE
+2018153597,Houston Astros Manager AJ Hinch ejected by HP umpire Eric Cooper.  ,182,201802009,134460,8/31/18,Y,I,hou,TRUE
+2018153851,Boston Red Sox shortstop Xander Bogaerts ejected by HP umpire Will Little.  ,548,201802012,593428,8/31/18,Y,I,bos,FALSE
+2018153852,Boston Red Sox pitcher Rick Porcello ejected by HP umpire Will Little.  ,564,201802012,519144,8/31/18,Y,C,bos,FALSE
+2018154127,New York Yankees Manager Aaron Boone ejected by HP umpire Nic Lentz.  ,279,201802016,111213,8/31/18,Y,C,nya,TRUE
+2018154159,Detroit Tigers Manager Ron Gardenhire ejected by 1B umpire Paul Nauert.  ,562,201802016,114599,8/31/18,,,det,FALSE
+2018154217,Washington Nationals catcher Matt Wieters ejected by HP umpire Chad Whitson.  ,392,201802017,446308,8/31/18,Y,C,was,TRUE
+2018156535,Minnesota Twins pitcher Matt Belisle ejected by HP umpire Alan Porter.  ,443,201802048,279571,9/2/18,,,min,FALSE
+2018156545,Minnesota Twins pitcher Addison Reed ejected by HP umpire Alan Porter.  ,542,201802048,592665,9/2/18,,,min,FALSE
+2018157204,Chicago Cubs Manager Joe Maddon ejected by HP umpire Gabe Morales.  ,539,201802057,427309,9/3/18,Y,C,chn,FALSE
+2018157205,Chicago Cubs pitcher Carl Edwards ejected by HP umpire Gabe Morales.  ,552,201802057,605218,9/3/18,Y,C,chn,FALSE
+2018160262,Atlanta Braves Manager Brian Snitker ejected by HP umpire Mark Ripperger.  ,427,201802098,492535,9/6/18,Y,C,atl,FALSE
+2018160279,Arizona Diamondbacks right fielder Steven Souza Jr.   ejected by HP umpire Mark Ripperger.  ,583,201802098,519306,9/6/18,Y,C,azn,FALSE
+2018160653,Atlanta Braves center fielder Ender Inciarte ejected by HP umpire Doug Eddings.  ,273,201802103,542255,9/7/18,,,atl,FALSE
+2018160688,Atlanta Braves Hitting Coach Kevin Seitzer ejected by HP umpire Doug Eddings.  ,598,201802103,121983,9/7/18,Y,C,atl,FALSE
+2018161069,Colorado Rockies Manager Bud Black ejected by HP umpire Andy Fletcher.  ,342,201802108,111034,9/7/18,,,col,TRUE
+2018161456,San Francisco Giants Manager Bruce Bochy ejected by HP umpire Adam Hamari.  ,597,201802113,111136,9/7/18,Y,C,sfn,FALSE
+2018163425,New York Yankees left fielder Brett Gardner ejected by HP umpire Jeremie Rehak.  ,582,201802139,458731,9/9/18,Y,C,nya,FALSE
+2018163633,Milwaukee Brewers Manager Craig Counsell ejected by HP umpire Tom Hallion.  ,370,201802142,112736,9/9/18,,,mil,TRUE
+2018163633,Milwaukee Brewers pitcher Wade Miley ejected by HP umpire Tom Hallion.  ,372,201802142,489119,9/9/18,,,mil,TRUE
+2018163633,Milwaukee Brewers catcher Jacob Nottingham ejected by HP umpire Tom Hallion.  ,374,201802142,641924,9/9/18,,,mil,TRUE
+2018163724,St.   Louis Cardinals Manager Mike Shildt ejected by HP umpire Lance Barrett.  ,556,201802143,492917,9/9/18,Y,I,stl,FALSE
+2018163724,St.   Louis Cardinals designated hitter Matt Carpenter ejected by HP umpire Lance Barrett.  ,558,201802143,572761,9/9/18,Y,I,stl,FALSE
+2018164842,Tampa Bay Rays Manager Kevin Cash ejected by HP umpire Mark Carlson.  ,449,201802158,408211,9/11/18,,,tba,TRUE
+2018165049,New York Mets third baseman Todd Frazier ejected by HP umpire Dan Bellino.  ,360,201802161,453943,9/11/18,Y,I,nyn,TRUE
+2018169210,Minnesota Twins Manager Paul Molitor ejected by HP umpire Ben May.  ,285,201802217,119236,9/15/18,,,min,FALSE
+2018169216,Minnesota Twins Third Base Coach Gene Glynn ejected by 1B umpire Cory Blaser.  ,336,201802217,427186,9/15/18,,,min,FALSE
+2018169396,Oakland Athletics Manager Bob Melvin ejected by HP umpire Larry Vanover.  ,597,201802219,118942,9/15/18,Y,I,oak,FALSE
+2018169446,Pittsburgh Pirates catcher Francisco Cervelli ejected by HP umpire Tripp Gibson III.  ,344,201802220,465041,9/15/18,Y,C,pit,FALSE
+2018169446,Pittsburgh Pirates Manager Clint Hurdle ejected by HP umpire Tripp Gibson III.  ,347,201802220,116346,9/15/18,Y,C,pit,FALSE
+2018169647,Toronto Blue Jays Manager John Gibbons ejected by HP umpire Roberto Ortiz.  ,132,201802223,114744,9/15/18,Y,C,tor,FALSE
+2018169647,Toronto Blue Jays catcher Luke Maile ejected by HP umpire Roberto Ortiz.  ,134,201802223,571912,9/15/18,Y,C,tor,FALSE
+2018170736,San Diego Padres Manager Andy Green ejected by 3B umpire Fieldin Culbreth.  ,512,201802237,433477,9/16/18,,,sdn,TRUE
+2018170852,Washington Nationals Bench Coach Chip Hale ejected by HP umpire Phil Cuzzi.  ,301,201802239,115330,9/16/18,Y,C,was,FALSE
+2018174427,New York Mets Manager Mickey Callaway ejected by HP umpire D.  J.   Reyburn.  ,622,201802286,209068,9/20/18,Y,C,nyn,FALSE
+2018174452,Washington Nationals right fielder Bryce Harper ejected by HP umpire D.  J.   Reyburn.  ,843,201802286,547180,9/20/18,Y,I,was,TRUE
+2018174574,Tampa Bay Rays right fielder Carlos Gomez ejected by HP umpire Andy Fletcher.  ,374,201802288,460576,9/20/18,Y,I,tba,FALSE
+2018175198,Milwaukee Brewers third baseman Travis Shaw ejected by HP umpire Marty Foster.  ,458,201802296,543768,9/21/18,Y,C,mil,FALSE
+2018176089,Chicago White Sox shortstop Tim Anderson ejected by 2B umpire Joe West.  ,651,201802307,641313,9/22/18,,,cha,TRUE
+2018176089,Chicago White Sox Manager Rick Renteria ejected by 2B umpire Joe West.  ,653,201802307,121075,9/22/18,,,cha,TRUE
+2018178330,Los Angeles Dodgers left fielder Joc Pederson ejected by HP umpire Joe West.  ,628,201802337,592626,9/24/18,Y,C,lan,FALSE
+2018179555,St.   Louis Cardinals third baseman Matt Carpenter ejected by HP umpire Will Little.  ,542,201802353,572761,9/25/18,Y,C,stl,FALSE
+2018179555,St.   Louis Cardinals Manager Mike Shildt ejected by HP umpire Will Little.  ,544,201802353,492917,9/25/18,Y,C,stl,FALSE
+2018181576,New York Yankees pitcher CC Sabathia ejected by HP umpire Vic Carapazza.  ,389,201802379,282332,9/27/18,,,nya,FALSE
+2018181576,New York Yankees Manager Aaron Boone ejected by HP umpire Vic Carapazza.  ,391,201802379,111213,9/27/18,,,nya,FALSE
