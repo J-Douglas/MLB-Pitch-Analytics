@@ -11,70 +11,121 @@ import math
 
 ### Creating dataframe
 df = pd.read_csv('datasets/pitches.csv')
+df_length = df['pitch_type'].shape[0]
 
 ### Setting random seed for reproducability purposes
 np.random.seed(42)
 
-limit = df['pitch_type'].shape[0]
+### Cleaning pitch data
 
-### Switchin to common pitch codes 
-for i in range(limit):
+# Changing to common PO (pitchout) code
+for i in range(df_length):
 	if df['pitch_type'][i] == 'FO':
 		df['pitch_type'][i] == 'PO'
-		
-### Extracting pitch info
-break_length = []
-spin_rate = []
-pitch_type = []
-codes_dict = {
-	"CH": 1,
-	"CU": 2,
-	"EP": 3,
-	"FC": 4,
-	"FF": 5,
-	"FS": 6,
-	"FT": 7,
-	"IN": 8,
-	"KC": 9,
-	"KN": 10,
-	"PO": 11,
-	"SC": 12,
-	"SI": 13,
-	"SL": 14,
-	"UN": 15
+
+# Encoding pitch dictionary
+pitch_dict = {
+	"CH": 0,
+	"CU": 1,
+	"EP": 2,
+	"FC": 3,
+	"FF": 4,
+	"FS": 5,
+	"FT": 6,
+	"IN": 7,
+	"KC": 8,
+	"KN": 9,
+	"PO": 10,
+	"SC": 11,
+	"SI": 12,
+	"SL": 13,
+	"UN": 14
 } 
 
-for i in range(limit):
-	if df['pitch_type'][i] in codes_dict:
-		break_length.append(df['break_length'][i])
-		spin_rate.append(df['spin_rate'][i])
-		pitch_type.append(codes_dict[df['pitch_type'][i]])
-		
+# Getting the number of pitches
+pitch_buckets = [0] * 15
+pitch_index = list(pitch_dict.keys())
 
-### Getting dataframe shapes
-print("Break length data shape: {}".format(len(break_length)))
-print("Spin rate data shape: {}".format(len(spin_rate)))
-print("Pitch type data shape: {}".format(len(pitch_type)))
+for i in range(df_length):
+	if df['pitch_type'][i] in pitch_dict:
+		pitch_buckets[pitch_dict[df['pitch_type'][i]]] += 1
 
-print("80:20 train/test split yields: {0}:{1}".format(0.8*len(break_length),0.2*len(break_length)))
+num_of_labels = 0
 
-### Label encoding
-# Note there are 16 different classes/pitches
-label_encoder = LabelEncoder()
-pitch_type = label_encoder.fit_transform(pitch_type)
+# Printing number of pitches by pitch type
+for j in range(len(pitch_dict)):
+	print("{0}: {1}".format(pitch_index[j],pitch_buckets[j]))
+	num_of_labels += pitch_buckets[j]
 
-### Creating training and validation sets
-training_length = math.ceil(0.8*len(break_length))
-print("Training length: {}".format(training_length))
+# Printing total number of pitches
+print("Total number of pitches: {}".format(num_of_labels))
 
-training_set = np.transpose(np.array([break_length[:training_length],spin_rate[:training_length]]))
-training_pitches = np.transpose(np.array([pitch_type[:training_length]]))
-validation_set = np.transpose(np.array([break_length[training_length:],spin_rate[training_length:]]))
-validation_pitches = np.transpose(np.array([pitch_type[training_length:]]))
+
+### Creating training and validation sets 
+# Note: labels are being encoded according to dictionary above
+
+training_set = []
+training_break = []
+training_spin = []
+training_pitches = []
+validation_set = []
+validation_break = []
+validation_spin = []
+validation_pitches = []
+
+# for i in range(15):
+# 	training_break.append(4.6+(i*0.2))
+# 	training_spin.append(1200+(i*100))
+# 	training_pitches.append(i)
+# 	validation_break.append(12.6-(i*0.2))
+# 	validation_spin.append(2200-(i*100))
+# 	validation_pitches.append(14-i)
+
+print("list lengths:")
+
+print(len(training_pitches))
+print(len(validation_pitches))
+
+num_pitches = [0] * 15
+j = 0
+for k in range(df['pitch_type'].shape[0]):
+	if df['pitch_type'][k] in pitch_dict:
+		if num_pitches[pitch_dict[df['pitch_type'][k]]] <= math.ceil(0.8*pitch_buckets[pitch_dict[df['pitch_type'][k]]]):
+			training_break.append(df['break_length'][k])
+			training_spin.append(df['spin_rate'][k])
+			training_pitches.append(pitch_dict[df['pitch_type'][k]])
+		else:
+			validation_break.append(df['break_length'][k])
+			validation_spin.append(df['spin_rate'][k])
+			validation_pitches.append(pitch_dict[df['pitch_type'][k]])
+		num_pitches[pitch_dict[df['pitch_type'][k]]] += 1
+		j += 1
+		print(j)
+
+training_set = np.column_stack([training_break,training_spin])
+validation_set = np.column_stack([validation_break,validation_spin])
+
+training_set = np.array(training_set)
+training_pitches = np.transpose(np.array(training_pitches))
+validation_set = np.array(validation_set)
+validation_pitches = np.transpose(np.array(validation_pitches))
+
+print("list lengths:")
+print(training_pitches.shape)
+print(validation_pitches.shape)
 
 ### Creating binary classification matrix
 training_pitches = to_categorical(training_pitches)
 validation_pitches = to_categorical(validation_pitches)
+
+print(training_set.shape[0])
+print(training_set.shape[1])
+print(training_pitches.shape)
+print(training_pitches)
+print(validation_set.shape[0])
+print(validation_set.shape[1])
+print(validation_pitches.shape)
+print(validation_pitches)
 
 ### Model Architecture
 model = Sequential()
@@ -103,5 +154,3 @@ model.fit(
     batch_size=batch_count,
     validation_data=(validation_set,validation_pitches)
 )
-
-
