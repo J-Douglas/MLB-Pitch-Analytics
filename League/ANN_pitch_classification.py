@@ -1,17 +1,15 @@
-import numpy as np
-import pandas as pd
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.metrics import classification_report, confusion_matrix
 import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import layers
 from keras.models import Sequential
 from keras.layers import *
 from keras.utils import to_categorical
+import numpy as np
+import pandas as pd
 import math
 
 ### Creating dataframe
-df = pd.read_csv('../datasets/pitches.csv')
+df = pd.read_csv('../../datasets/pitches.csv')
 df_length = df['pitch_type'].shape[0]
 
 ### Setting random seed for reproducability purposes
@@ -106,15 +104,44 @@ training_pitches = np.transpose(np.array(training_pitches))
 validation_set = np.array(validation_set)
 validation_pitches = np.transpose(np.array(validation_pitches))
 
-print(training_set)
+### Creating binary classification matrix
+training_pitches = to_categorical(training_pitches)
+validation_pitches = to_categorical(validation_pitches)
+
+print(training_set.shape[0])
+print(training_set.shape[1])
+print(training_pitches.shape)
 print(training_pitches)
-print(validation_set)
+print(validation_set.shape[0])
+print(validation_set.shape[1])
+print(validation_pitches.shape)
 print(validation_pitches)
 
-### KNN fitting
-classifier = KNeighborsClassifier(n_neighbors=5)
-classifier.fit(training_set, training_pitches)
+### Model Architecture
+model = Sequential()
+model.add(Dense(4, activation='relu', input_dim=4))
+model.add(Dense(64,activation='relu'))
+model.add(Dense(32,activation='relu'))
+model.add(Dropout(0.1))
+model.add(Dense(16,activation='relu'))
+model.add(Dense(15, activation='softmax'))
 
-predictions = classifier.predict(validation_set)
-print(confusion_matrix(validation_pitches, predictions))
-print(classification_report(validation_pitches, predictions))
+### Compiling the model
+model.compile(
+  optimizer='adam', 
+  loss='categorical_crossentropy', 
+  metrics=['accuracy']
+)
+
+### Training the model
+epoch_count = 10
+batch_count = 60
+
+model.fit(
+    training_set, 
+    training_pitches, 
+    epochs=epoch_count,
+    batch_size=batch_count,
+    validation_data=(validation_set,validation_pitches)
+)
+
