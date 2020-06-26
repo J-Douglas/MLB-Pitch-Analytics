@@ -39,6 +39,8 @@ atbats = df_atbats.loc[df_atbats['pitcher_id'] == pitcher_id]
 print(atbats)
 
 df = df_pitches.loc[df_pitches['ab_id'] == atbats['ab_id'].iat[0]]
+print(type(df))
+print("______________________________________________")
 
 for i in range(1,atbats.shape[0]):
 	df.append(df_pitches.loc[df_pitches['ab_id'] == atbats['ab_id'].iat[i]])
@@ -53,9 +55,9 @@ np.random.seed(42)
 ### Cleaning pitch data
 
 # Changing to common PO (pitchout) code
-for i in range(df_length):
-	if df['pitch_type'][i] == 'FO':
-		df['pitch_type'][i] == 'PO'
+for elm in df['pitch_type']:
+	if elm == 'FO':
+		elm == 'PO'
 
 # Encoding pitch dictionary
 pitch_dict = {
@@ -80,9 +82,9 @@ pitch_dict = {
 pitch_buckets = [0] * 15
 pitch_index = list(pitch_dict.keys())
 
-for i in range(df_length):
-	if df['pitch_type'][i] in pitch_dict:
-		pitch_buckets[pitch_dict[df['pitch_type'][i]]] += 1
+for elm in df['pitch_type']:
+	if elm in pitch_dict:
+		pitch_buckets[pitch_dict[elm]] += 1
 
 num_of_labels = 0
 
