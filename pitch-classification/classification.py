@@ -23,14 +23,17 @@ try:
 	name = pitcher.lower().split()
 	if len(name) == 1:
 		raise Exception("Please enter the player's full name.")
-	first_name = name[0].lower().capitalize()
-	last_name = name[1].capitalize()
-	pitcher = first_name + ' ' + last_name
-	if not (df_player['first_name'].str.lower().str.capitalize().str.contains(first_name).any() & df_player['last_name'].str.contains(last_name).any()):
+	first_name = name[0]
+	last_name = name[1]
+	if not (df_player['first_name'].str.lower().str.contains(first_name).any() & df_player['last_name'].str.lower().str.contains(last_name).any()):
 		raise NameError
 except NameError:
 	sys.exit("The player name you entered does not appear in the database. Please check the spelling of the name and try again.")
 
+holder = df_player.loc[df_player['first_name'].str.lower().str.contains(first_name)]
+holder2 = holder.loc[holder['last_name'].str.lower().str.contains(last_name)]
+first_name = holder2['first_name'].iat[0]
+last_name = holder2['last_name'].iat[0]
 
 stepA = df_player.loc[df_player['first_name'].str.lower() == first_name.lower()]
 
@@ -44,7 +47,7 @@ df = df_pitches.loc[df_pitches['ab_id'] == atbats['ab_id'].iat[0]]
 
 ab_id = 0
 
-print("Gathering at bats...")
+print("Gathering total batters faced...")
 for i in range(1,atbats.shape[0]):
 	ab_id = atbats['ab_id'].iat[i]
 	df = df.append(df_pitches.loc[df_pitches["ab_id"] == ab_id],ignore_index = True)
@@ -109,17 +112,20 @@ training_break = []
 training_spin = []
 training_speed = []
 training_pitches = []
+training_ay = []
 training_az = []
 validation_set = []
 validation_break = []
 validation_spin = []
 validation_speed = []
+validation_ay = []
 validation_az = []
 validation_pitches = []
 test_set = []
 test_break = []
 test_spin = []
 test_speed = []
+test_ay = []
 test_az = []
 test_pitches = []
 
@@ -132,42 +138,48 @@ for k in range(df['pitch_type'].shape[0]):
 			training_break.append(df['break_length'][k])
 			training_spin.append(df['spin_rate'][k])
 			training_speed.append(df['start_speed'][k])
+			training_ay.append(df['ay'][k])
 			training_az.append(df['az'][k])
 			training_pitches.append(pitch_dict[df['pitch_type'][k]])
 			validation_break.append(df['break_length'][k])
 			validation_spin.append(df['spin_rate'][k])
 			validation_speed.append(df['start_speed'][k])
+			validation_ay.append(df['ay'][k])
 			validation_az.append(df['az'][k])
 			validation_pitches.append(pitch_dict[df['pitch_type'][k]])
 			test_break.append(df['break_length'][k])
 			test_spin.append(df['spin_rate'][k])
 			test_speed.append(df['start_speed'][k])
+			test_ay.append(df['ay'][k])
 			test_az.append(df['az'][k])
 			test_pitches.append(pitch_dict[df['pitch_type'][k]])
 		elif num_pitches[pitch_dict[df['pitch_type'][k]]] < math.ceil(0.7*pitch_buckets[pitch_dict[df['pitch_type'][k]]]):
 			training_break.append(df['break_length'][k])
 			training_spin.append(df['spin_rate'][k])
 			training_speed.append(df['start_speed'][k])
+			training_ay.append(df['ay'][k])
 			training_az.append(df['az'][k])
 			training_pitches.append(pitch_dict[df['pitch_type'][k]])
 		elif num_pitches[pitch_dict[df['pitch_type'][k]]] < math.ceil(0.85*pitch_buckets[pitch_dict[df['pitch_type'][k]]]):
 			validation_break.append(df['break_length'][k])
 			validation_spin.append(df['spin_rate'][k])
 			validation_speed.append(df['start_speed'][k])
+			validation_ay.append(df['ay'][k])
 			validation_az.append(df['az'][k])
 			validation_pitches.append(pitch_dict[df['pitch_type'][k]])
 		else:
 			test_break.append(df['break_length'][k])
 			test_spin.append(df['spin_rate'][k])
 			test_speed.append(df['start_speed'][k])
+			test_ay.append(df['ay'][k])
 			test_az.append(df['az'][k])
 			test_pitches.append(pitch_dict[df['pitch_type'][k]])
 		num_pitches[pitch_dict[df['pitch_type'][k]]] += 1
 		j += 1
 
-training_set = np.column_stack([training_break,training_spin,training_speed,training_az])
-validation_set = np.column_stack([validation_break,validation_spin,validation_speed,validation_az])
-test_set = np.column_stack([test_break,test_spin,test_speed,test_az])
+training_set = np.column_stack([training_break,training_spin,training_speed,training_ay,training_az])
+validation_set = np.column_stack([validation_break,validation_spin,validation_speed,validation_ay,validation_az])
+test_set = np.column_stack([test_break,test_spin,test_speed,test_ay,test_az])
 
 training_set = np.array(training_set)
 training_pitches = np.transpose(np.array(training_pitches))
@@ -181,12 +193,14 @@ validation_pitches = to_categorical(validation_pitches)
 
 ### Model Architecture
 model = Sequential()
-model.add(Dense(4, activation='relu', input_dim=4))
-model.add(Dense(128,activation='relu'))
+model.add(Dense(5, activation='relu', input_dim=5))
+model.add(Dense(1024,activation='relu'))
+model.add(Dense(512,activation='relu'))
+model.add(Dropout(0.1))
+model.add(Dense(256,activation='relu'))
 model.add(Dense(64,activation='relu'))
 model.add(Dropout(0.1))
 model.add(Dense(32,activation='relu'))
-model.add(Dense(16,activation='relu'))
 model.add(Dense(training_pitches.shape[1], activation='softmax'))
 
 ### Compiling the model
@@ -197,8 +211,8 @@ model.compile(
 )
 
 ### Training the model
-epoch_count = 180
-batch_count = 240
+epoch_count = 162
+batch_count = 100
 
 model.fit(
     training_set, 
