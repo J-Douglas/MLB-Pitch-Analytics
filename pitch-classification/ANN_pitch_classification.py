@@ -9,8 +9,10 @@ import pandas as pd
 import math
 
 ### Creating dataframe
-df = pd.read_csv('../../datasets/pitches.csv')
+df = pd.read_csv('../datasets/pitches.csv')
 df_length = df['pitch_type'].shape[0]
+
+print(type(df))
 
 ### Setting random seed for reproducability purposes
 np.random.seed(42)
@@ -80,7 +82,18 @@ num_pitches = [0] * 15
 j = 0
 for k in range(df['pitch_type'].shape[0]):
 	if df['pitch_type'][k] in pitch_dict:
-		if num_pitches[pitch_dict[df['pitch_type'][k]]] <= math.ceil(0.8*pitch_buckets[pitch_dict[df['pitch_type'][k]]]):
+		if pitch_buckets[pitch_dict[df['pitch_type'][k]]] <= 5:
+			training_break.append(df['break_length'][k])
+			training_spin.append(df['spin_rate'][k])
+			training_speed.append(df['start_speed'][k])
+			training_az.append(df['az'][k])
+			training_pitches.append(pitch_dict[df['pitch_type'][k]])
+			validation_break.append(df['break_length'][k])
+			validation_spin.append(df['spin_rate'][k])
+			validation_speed.append(df['start_speed'][k])
+			validation_az.append(df['az'][k])
+			validation_pitches.append(pitch_dict[df['pitch_type'][k]])
+		elif num_pitches[pitch_dict[df['pitch_type'][k]]] < math.ceil(0.8*pitch_buckets[pitch_dict[df['pitch_type'][k]]]):
 			training_break.append(df['break_length'][k])
 			training_spin.append(df['spin_rate'][k])
 			training_speed.append(df['start_speed'][k])

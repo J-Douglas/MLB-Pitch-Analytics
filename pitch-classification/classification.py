@@ -7,6 +7,7 @@ from keras.utils import to_categorical
 import numpy as np
 import pandas as pd
 import math
+import os
 import sys
 
 print("Loading dataframes...")
@@ -22,30 +23,31 @@ try:
 	name = pitcher.lower().split()
 	if len(name) == 1:
 		raise Exception("Please enter the player's full name.")
-	first_name = name[0].capitalize()
+	first_name = name[0].lower().capitalize()
 	last_name = name[1].capitalize()
-	if not (df_player['first_name'].str.contains(first_name).any() & df_player['last_name'].str.contains(last_name).any()):
+	pitcher = first_name + ' ' + last_name
+	if not (df_player['first_name'].str.lower().str.capitalize().str.contains(first_name).any() & df_player['last_name'].str.contains(last_name).any()):
 		raise NameError
 except NameError:
 	sys.exit("The player name you entered does not appear in the database. Please check the spelling of the name and try again.")
 
-stepA = df_player.loc[df_player['first_name'] == first_name]
-print(stepA)
-stepB = stepA.loc[df_player['last_name'] == last_name]
-print(stepB)
+
+stepA = df_player.loc[df_player['first_name'].str.lower() == first_name.lower()]
+
+stepB = stepA.loc[df_player['last_name'].str.lower() == last_name.lower()]
+
 pitcher_id = stepB['id'].iat[0]
-print(pitcher_id)
+
 atbats = df_atbats.loc[df_atbats['pitcher_id'] == pitcher_id]
-print(atbats)
 
 df = df_pitches.loc[df_pitches['ab_id'] == atbats['ab_id'].iat[0]]
-print(type(df))
-print("______________________________________________")
 
+ab_id = 0
+
+print("Gathering at bats...")
 for i in range(1,atbats.shape[0]):
-	df.append(df_pitches.loc[df_pitches['ab_id'] == atbats['ab_id'].iat[i]])
-
-print(df)
+	ab_id = atbats['ab_id'].iat[i]
+	df = df.append(df_pitches.loc[df_pitches["ab_id"] == ab_id],ignore_index = True)
 
 df_length = df['pitch_type'].shape[0]
 
@@ -88,6 +90,8 @@ for elm in df['pitch_type']:
 
 num_of_labels = 0
 
+print("Number of pitches by type...")
+
 # Printing number of pitches by pitch type
 for j in range(len(pitch_dict)):
 	print("{0}: {1}".format(pitch_index[j],pitch_buckets[j]))
@@ -112,56 +116,78 @@ validation_spin = []
 validation_speed = []
 validation_az = []
 validation_pitches = []
+test_set = []
+test_break = []
+test_spin = []
+test_speed = []
+test_az = []
+test_pitches = []
 
 num_pitches = [0] * 15
 j = 0
+print("Cleaning pitch data...")
 for k in range(df['pitch_type'].shape[0]):
 	if df['pitch_type'][k] in pitch_dict:
-		if num_pitches[pitch_dict[df['pitch_type'][k]]] <= math.ceil(0.8*pitch_buckets[pitch_dict[df['pitch_type'][k]]]):
+		if pitch_buckets[pitch_dict[df['pitch_type'][k]]] <= 5:
 			training_break.append(df['break_length'][k])
 			training_spin.append(df['spin_rate'][k])
 			training_speed.append(df['start_speed'][k])
 			training_az.append(df['az'][k])
 			training_pitches.append(pitch_dict[df['pitch_type'][k]])
-		else:
 			validation_break.append(df['break_length'][k])
 			validation_spin.append(df['spin_rate'][k])
 			validation_speed.append(df['start_speed'][k])
 			validation_az.append(df['az'][k])
 			validation_pitches.append(pitch_dict[df['pitch_type'][k]])
+			test_break.append(df['break_length'][k])
+			test_spin.append(df['spin_rate'][k])
+			test_speed.append(df['start_speed'][k])
+			test_az.append(df['az'][k])
+			test_pitches.append(pitch_dict[df['pitch_type'][k]])
+		elif num_pitches[pitch_dict[df['pitch_type'][k]]] < math.ceil(0.7*pitch_buckets[pitch_dict[df['pitch_type'][k]]]):
+			training_break.append(df['break_length'][k])
+			training_spin.append(df['spin_rate'][k])
+			training_speed.append(df['start_speed'][k])
+			training_az.append(df['az'][k])
+			training_pitches.append(pitch_dict[df['pitch_type'][k]])
+		elif num_pitches[pitch_dict[df['pitch_type'][k]]] < math.ceil(0.85*pitch_buckets[pitch_dict[df['pitch_type'][k]]]):
+			validation_break.append(df['break_length'][k])
+			validation_spin.append(df['spin_rate'][k])
+			validation_speed.append(df['start_speed'][k])
+			validation_az.append(df['az'][k])
+			validation_pitches.append(pitch_dict[df['pitch_type'][k]])
+		else:
+			test_break.append(df['break_length'][k])
+			test_spin.append(df['spin_rate'][k])
+			test_speed.append(df['start_speed'][k])
+			test_az.append(df['az'][k])
+			test_pitches.append(pitch_dict[df['pitch_type'][k]])
 		num_pitches[pitch_dict[df['pitch_type'][k]]] += 1
 		j += 1
-		print(j)
 
 training_set = np.column_stack([training_break,training_spin,training_speed,training_az])
 validation_set = np.column_stack([validation_break,validation_spin,validation_speed,validation_az])
+test_set = np.column_stack([test_break,test_spin,test_speed,test_az])
 
 training_set = np.array(training_set)
 training_pitches = np.transpose(np.array(training_pitches))
 validation_set = np.array(validation_set)
 validation_pitches = np.transpose(np.array(validation_pitches))
+test_set = np.array(test_set)
 
 ### Creating binary classification matrix
 training_pitches = to_categorical(training_pitches)
 validation_pitches = to_categorical(validation_pitches)
 
-print(training_set.shape[0])
-print(training_set.shape[1])
-print(training_pitches.shape)
-print(training_pitches)
-print(validation_set.shape[0])
-print(validation_set.shape[1])
-print(validation_pitches.shape)
-print(validation_pitches)
-
 ### Model Architecture
 model = Sequential()
 model.add(Dense(4, activation='relu', input_dim=4))
+model.add(Dense(128,activation='relu'))
 model.add(Dense(64,activation='relu'))
-model.add(Dense(32,activation='relu'))
 model.add(Dropout(0.1))
+model.add(Dense(32,activation='relu'))
 model.add(Dense(16,activation='relu'))
-model.add(Dense(15, activation='softmax'))
+model.add(Dense(training_pitches.shape[1], activation='softmax'))
 
 ### Compiling the model
 model.compile(
@@ -171,8 +197,8 @@ model.compile(
 )
 
 ### Training the model
-epoch_count = 10
-batch_count = 60
+epoch_count = 180
+batch_count = 240
 
 model.fit(
     training_set, 
@@ -182,4 +208,37 @@ model.fit(
     validation_data=(validation_set,validation_pitches)
 )
 
+if not os.path.exists('../{0}'.format(pitcher)):
+    os.makedirs('../{0}'.format(pitcher))
+
+# Saving the model
+model.save_weights('../{0}/{1}{2}_pitch_classification.h5'.format(pitcher,first_name[0],last_name[0]))
+
+predictions = model.predict(test_set,batch_size=batch_count)
+
+def results(arr):
+	high = 0
+	tracker = 0
+	guesses = []
+	for i in range(len(arr)):
+		high = arr[i][0]
+		guesses.append(0)
+		track = 0
+		for j in range(len(arr[i])):
+			if arr[i][j] > high:
+				high = arr[i][j]
+				track = j
+				guesses[i] = j
+	return guesses
+
+def eval(pred,actual):
+	total = 0
+	correct = 0
+	for i in range(len(pred)):
+		if pred[i] == actual[i]:
+			correct += 1
+		total += 1
+	return correct/total
+
+print("Testing set accuracy: {}".format(eval(results(predictions),test_pitches)))
 
