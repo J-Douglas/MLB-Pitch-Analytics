@@ -32,3 +32,4 @@ try:
 		raise NameError
 except NameError:
 	sys.exit("The player name you entered does not appear in the database. Please check the spelling of the name and try again.")
+
