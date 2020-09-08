@@ -5,28 +5,28 @@ In January 2020, the MLB confirmed that the Houston Astros had used technology t
 
 This repository details pitch classification, visualization, and prediction. To setup, first clone the respository with the git code below.
 
-'$ git clone https://github.com/J-Douglas/MLB-Pitch-Analytics'
+`$ git clone https://github.com/J-Douglas/MLB-Pitch-Analytics` 
 
 ## Classification
 
 To train a custom classification model for a pitcher, call the code below.
 
-`python train_classification_model.py'
+`python train_classification_model.py`
 
 To classify pitches, call the code below. You will be asked to specify the pitcher. The program will throw an error if a model has not be trained for the pitcher specified.
 
-'python classification.py'
+`python classification.py`
 
 ## Visualization
 
 To visualize results, call the code below.
 
-'python visualize.py'
+`python visualize.py`
 
-![Marcus Stroman Pitch Visualization](https://github.com/J-Douglas/MLB-Pitch-Analytics/Marcus Stroman/Marcus Stroman Pitch Visualization)![Nathan Eovaldi Pitch Visualization](https://github.com/J-Douglas/MLB-Pitch-Analytics/Nathan Eovaldi/Nathan Eovaldi Pitch Visualization)
+![Marcus Stroman Pitch Visualization](https://github.com/J-Douglas/MLB-Pitch-Analytics/blob/master/Marcus%20Stroman/Marcus%20Stroman%20Pitch%20Visualization.png)![Nathan Eovaldi Pitch Visualization](https://github.com/J-Douglas/MLB-Pitch-Analytics/blob/master/Nathan%20Eovaldi/Nathan%20Eovalid%20Pitch%20Visaulization.png)
 
 ## Prediction
 
-'python train_prediction_model.py'
+`python train_prediction_model.py`
 
-'python prediction.py'
+`python prediction.py`
