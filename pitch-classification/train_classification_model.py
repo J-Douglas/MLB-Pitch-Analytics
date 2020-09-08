@@ -62,7 +62,7 @@ np.random.seed(42)
 # Changing to common PO (pitchout) code
 for elm in df['pitch_type']:
 	if elm == 'FO':
-		elm == 'PO'
+		elm = 'PO'
 
 # Encoding pitch dictionary
 pitch_dict = {
@@ -194,13 +194,14 @@ validation_pitches = to_categorical(validation_pitches)
 ### Model Architecture
 model = Sequential()
 model.add(Dense(5, activation='relu', input_dim=5))
-model.add(Dense(1024,activation='relu'))
-model.add(Dense(512,activation='relu'))
+model.add(Dense(64,activation='relu'))
+model.add(Dense(128,activation='relu'))
 model.add(Dropout(0.1))
-model.add(Dense(256,activation='relu'))
+model.add(Dense(128,activation='relu'))
 model.add(Dense(64,activation='relu'))
 model.add(Dropout(0.1))
 model.add(Dense(32,activation='relu'))
+model.add(Dense(16,activation='relu'))
 model.add(Dense(training_pitches.shape[1], activation='softmax'))
 
 ### Compiling the model
