@@ -23,7 +23,7 @@ To visualize results, call the code below.
 
 `python visualize.py`
 
-![Marcus Stroman Pitch Visualization](https://github.com/J-Douglas/MLB-Pitch-Analytics/blob/master/Marcus%20Stroman/Marcus%20Stroman%20Pitch%20Visualization.png){:height="50%" width="50%"}![Nathan Eovaldi Pitch Visualization](https://github.com/J-Douglas/MLB-Pitch-Analytics/blob/master/Nathan%20Eovaldi/Nathan%20Eovalid%20Pitch%20Visaulization.png){:height="50%" width="50%"}
+![Marcus Stroman Pitch Visualization](https://github.com/J-Douglas/MLB-Pitch-Analytics/blob/master/Marcus%20Stroman/Marcus%20Stroman%20Pitch%20Visualization.png)![Nathan Eovaldi Pitch Visualization](https://github.com/J-Douglas/MLB-Pitch-Analytics/blob/master/Nathan%20Eovaldi/Nathan%20Eovalid%20Pitch%20Visaulization.png)
 
 ## Prediction
 
