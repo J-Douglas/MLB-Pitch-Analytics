@@ -1,9 +1,11 @@
 # MLB Pitch Analytics
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-In January 2020, the MLB confirmed that the Houston Astros had used technology to steal signs in the 2017 and 2018 seasons. Statistics show that their plate discipline and runs produced were significantly better when comparing the 2016 and 2017 seasons and their home vs. away games. An important takeaway from this scandal is that being able to predict a pitch is hugely valuable to a team's success.
+The MLB began classifying pitches in the 2006 Postseason, and their automated system began as just two neural networks: one for lefties and one for righties. However, this method was flawed because there was such significant difference between the pitching repetoire of each pitcher (ie. a amoung of break in a curveball can vary greatly from pitcher to pitcher). Today, a custom model is made for every pitcher.
 
-This repository details pitch classification, visualization, and prediction. To setup, first clone the respository with the git code below.
+Having advanced insights about pitchers is becoming increasingly valuable to clubs. In January 2020, the MLB confirmed that the Houston Astros had used technology to steal signs in the 2017 and 2018 seasons. Statistics show that their plate discipline and runs produced were significantly better when comparing the 2016 and 2017 seasons and their home vs. away games. An important takeaway from this scandal is that being able to predict a pitch is hugely valuable to a team's success and so it is in the interest of teams to learn about a pitcher's pitches and gameplan for at-bats **legally**.
+
+The repository is an EDA of baseball pitch classification, visualization, and prediction. To try out the models developed on a particular pitcher, first clone the respository with the git code below.
 
 `$ git clone https://github.com/J-Douglas/MLB-Pitch-Analytics` 
 
@@ -30,3 +32,5 @@ To visualize results, call the code below.
 `python train_prediction_model.py`
 
 `python prediction.py`
+
+
