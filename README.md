@@ -1,5 +1,4 @@
 # MLB Pitch Analytics
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 The MLB began classifying pitches in the 2006 Postseason, and their automated system began as just two neural networks: one for lefties and one for righties. However, this method was flawed because there was such significant difference between the pitching repetoire of each pitcher (ie. a amoung of break in a curveball can vary greatly from pitcher to pitcher). Today, a custom model is made for every pitcher.
 
